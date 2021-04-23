@@ -1062,7 +1062,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 110298501}
-    m_Position: {x: 432, y: 84, z: 0}
+    m_Position: {x: 430, y: 80, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110276412}
     m_Position: {x: 168, y: -48, z: 0}
@@ -1071,44 +1071,44 @@ AnimatorStateMachine:
     m_Position: {x: 156, y: 84, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102593578339559554}
-    m_Position: {x: 456, y: -24, z: 0}
+    m_Position: {x: 440, y: -70, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102382927280831128}
-    m_Position: {x: 504, y: 312, z: 0}
+    m_Position: {x: 550, y: 430, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102628477682578796}
-    m_Position: {x: 132, y: 192, z: 0}
+    m_Position: {x: -30, y: 340, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102693947346440028}
-    m_Position: {x: 132, y: 240, z: 0}
+    m_Position: {x: 120, y: 400, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102613329291136624}
-    m_Position: {x: 420, y: 372, z: 0}
+    m_Position: {x: 340, y: 430, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102346983764748004}
-    m_Position: {x: 624, y: 372, z: 0}
+    m_Position: {x: 750, y: 440, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102871582517604858}
-    m_Position: {x: 648, y: 180, z: 0}
+    m_Position: {x: 770, y: 330, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102057418820347938}
-    m_Position: {x: 996, y: 12, z: 0}
+    m_Position: {x: 910, y: 10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102041014689773112}
-    m_Position: {x: 996, y: 156, z: 0}
+    m_Position: {x: 880, y: 210, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102224770563898578}
-    m_Position: {x: 996, y: 60, z: 0}
+    m_Position: {x: 910, y: 80, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102610874461131816}
-    m_Position: {x: 996, y: 108, z: 0}
+    m_Position: {x: 870, y: 150, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 780, y: 36, z: 0}
-  m_EntryPosition: {x: 600, y: 36, z: 0}
+  m_AnyStatePosition: {x: 820, y: -70, z: 0}
+  m_EntryPosition: {x: 650, y: -70, z: 0}
   m_ExitPosition: {x: 648, y: -168, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 110298501}
@@ -1310,7 +1310,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Forward
     m_EventTreshold: 0.1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110203274}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1338,7 +1338,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Forward
     m_EventTreshold: 0.1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110228116}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1413,7 +1413,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Forward
     m_EventTreshold: 0.1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110228116}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1551,7 +1551,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitChest
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110205720}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1576,7 +1576,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Block
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110257080}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1604,7 +1604,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Forward
     m_EventTreshold: 0.1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110267178}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1679,7 +1679,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitHead
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110257888}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1729,7 +1729,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitChest
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110205720}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1829,7 +1829,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Block
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110257080}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1926,7 +1926,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitHard
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110238776}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1951,7 +1951,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitStomach
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110222880}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1976,7 +1976,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitHead
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110257888}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -2070,7 +2070,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Forward
     m_EventTreshold: 0.1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110267178}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -2223,7 +2223,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Die
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110268230}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -2426,7 +2426,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitHard
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110238776}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -2507,7 +2507,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Forward
     m_EventTreshold: 0.1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110203274}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -2651,7 +2651,7 @@ AnimatorStateTransition:
     m_ConditionEvent: Die
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110268230}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -2676,7 +2676,7 @@ AnimatorStateTransition:
     m_ConditionEvent: HitStomach
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 110222880}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
