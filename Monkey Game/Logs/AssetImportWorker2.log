@@ -1,0 +1,261 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18362.592; Version 1903; 64bit' Language: 'en' Physical Memory: 16335 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+E:/gamedev/gitstuff/CIS410-MonkeyGame/CIS410-MonkeyGame/Monkey Game
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+65514
+Successfully changed project path to: E:/gamedev/gitstuff/CIS410-MonkeyGame/CIS410-MonkeyGame/Monkey Game
+E:/gamedev/gitstuff/CIS410-MonkeyGame/CIS410-MonkeyGame/Monkey Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 74.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/gamedev/gitstuff/CIS410-MonkeyGame/CIS410-MonkeyGame/Monkey Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003651 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.251 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.297 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2403 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.6 MB.
+System memory in use after: 105.2 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2795.
+Total: 5.908100 ms (FindLiveObjects: 0.382300 ms CreateObjectMapping: 0.078000 ms MarkObjects: 3.326500 ms  DeleteObjects: 2.119600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ee5b85221e28a412ba657946cd7ca3') in 0.189266 seconds
+  Import took 0.227406 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 121.7 MB.
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 2806.
+Total: 4.851600 ms (FindLiveObjects: 0.331300 ms CreateObjectMapping: 0.075600 ms MarkObjects: 2.282200 ms  DeleteObjects: 2.161100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 121.8 MB.
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 2809.
+Total: 5.152600 ms (FindLiveObjects: 0.359500 ms CreateObjectMapping: 0.075500 ms MarkObjects: 2.331500 ms  DeleteObjects: 2.383700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 391.535297 seconds.
+  path: Assets/Mankeys_sushishop/Scripts
+  artifactKey: Guid(a5499b832b537ef4aa30d7ebf4e084f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts using Guid(a5499b832b537ef4aa30d7ebf4e084f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e402e5d2dd90f1657a2437e56dfd72e5') in 0.155548 seconds
+  Import took 3.727782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Mankeys_sushishop/Scripts/InputManager.cs
+  artifactKey: Guid(c1f26a3fb509a124db0b65635e2e94ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts/InputManager.cs using Guid(c1f26a3fb509a124db0b65635e2e94ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c7a0f7aebc8c9f688ce2f6beb0229f') in 0.012135 seconds
+  Import took 0.016227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.891210 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_back.png
+  artifactKey: Guid(0d49f6f98356be5419912a6358687062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_back.png using Guid(0d49f6f98356be5419912a6358687062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fef57f17cf72c22b511a199d500e5e2') in 8.191510 seconds
+  Import took 8.662552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter
+  artifactKey: Guid(8912f13e18e67bc478684ec30d73bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter using Guid(8912f13e18e67bc478684ec30d73bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de5fb42a0adf2fd6cd6fcf64d6164ad') in 0.003412 seconds
+  Import took 0.007865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_left.png
+  artifactKey: Guid(47ea6b8392eea4c4f8ab69cbe2d1cd3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_left.png using Guid(47ea6b8392eea4c4f8ab69cbe2d1cd3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a310f4f9a700d7a0f2c6f0262d57cf62') in 0.426068 seconds
+  Import took 0.430439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_right.png
+  artifactKey: Guid(69fd5cc1b2fd855448481416474bad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_right.png using Guid(69fd5cc1b2fd855448481416474bad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b1310b12cfd8bf41d79d5edbad2834') in 0.323060 seconds
+  Import took 0.333862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt
+  artifactKey: Guid(af82a5dcdad0f544c99fd1a84212021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt using Guid(af82a5dcdad0f544c99fd1a84212021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e23e883e1ec5c856c718231e93e2758') in 0.016143 seconds
+  Import took 0.022142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_front.png
+  artifactKey: Guid(1cd36267fbc857143883fff5fac0cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_front.png using Guid(1cd36267fbc857143883fff5fac0cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f1d7e5b6d10e5ab60e921f13708b67') in 0.164618 seconds
+  Import took 0.211580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_skybox.mat
+  artifactKey: Guid(6b0381e82648edb4497b56edfb2fbb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_skybox.mat using Guid(6b0381e82648edb4497b56edfb2fbb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbcf034c4d3ba0fc262e08e7c0173f5') in 0.563452 seconds
+  Import took 0.592572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters
+  artifactKey: Guid(8c32f58513a41ef4dab9cb7704c5fb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters using Guid(8c32f58513a41ef4dab9cb7704c5fb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843870c3d14c6155c3063bef8017a1bb') in 0.003097 seconds
+  Import took 0.008671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_up.png
+  artifactKey: Guid(46a5364eb65102340bba81afccc125e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_up.png using Guid(46a5364eb65102340bba81afccc125e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937e62571a726e87161fce40e28a73d4') in 0.013460 seconds
+  Import took 0.017862 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.6 MB.
+System memory in use after: 122.1 MB.
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 2849.
+Total: 5.245300 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.085800 ms MarkObjects: 2.224400 ms  DeleteObjects: 2.554000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.400857 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Textures
+  artifactKey: Guid(0de3730b71e479c47995d4a98395073e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Textures using Guid(0de3730b71e479c47995d4a98395073e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28477775c2ab45f9070a04afa5c13ea3') in 0.008682 seconds
+  Import took 0.065231 seconds .
+
