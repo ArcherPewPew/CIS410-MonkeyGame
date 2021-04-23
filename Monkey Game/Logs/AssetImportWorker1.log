@@ -1,0 +1,1927 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18362.592; Version 1903; 64bit' Language: 'en' Physical Memory: 16335 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/gamedev/gitstuff/CIS410-MonkeyGame/Monkey Game
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+64032
+Successfully changed project path to: E:/gamedev/gitstuff/CIS410-MonkeyGame/Monkey Game
+E:/gamedev/gitstuff/CIS410-MonkeyGame/Monkey Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 84.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/gamedev/gitstuff/CIS410-MonkeyGame/Monkey Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005534 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.355 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.095970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.227 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.89 seconds
+Refreshing native plugins compatible for Editor in 1.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2417 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.0 MB.
+System memory in use after: 108.8 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 85.951400 ms (FindLiveObjects: 0.744100 ms CreateObjectMapping: 0.177600 ms MarkObjects: 81.780500 ms  DeleteObjects: 3.245700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1b2f250ca2d13e8703b88ebecc6047') in 0.355040 seconds
+  Import took 0.416040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047593 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcbb894266d2c9b152955f6bbad470d') in 2.176329 seconds
+  Import took 2.185118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.104972 seconds.
+  path: Assets/Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb81bd57e6edfacbbe58357158cba79') in 0.535851 seconds
+  Import took 0.579231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.176776 seconds.
+  path: Assets/Presets/AudioCompressedInMemory.preset
+  artifactKey: Guid(2dd802e4d37c65149922028d3e973832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/AudioCompressedInMemory.preset using Guid(2dd802e4d37c65149922028d3e973832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1008744868140792b9123870cddc746') in 0.019084 seconds
+  Import took 0.037470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Presets/AudioStreaming.preset
+  artifactKey: Guid(86bcce7f5575b54408aa0f3a7d321039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/AudioStreaming.preset using Guid(86bcce7f5575b54408aa0f3a7d321039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86c8197765dc6a305ccc7924698bf36e') in 0.014806 seconds
+  Import took 0.029972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Presets/NormalTexture.preset
+  artifactKey: Guid(14a57cf3b9fa1c74b884aa7e0dcf1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/NormalTexture.preset using Guid(14a57cf3b9fa1c74b884aa7e0dcf1faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31de465e5e16ba5b635abbad06e1c379') in 0.039418 seconds
+  Import took 0.058027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Presets/UtilityTexture.preset
+  artifactKey: Guid(45f7b2e3c78185248b3adbb14429c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/UtilityTexture.preset using Guid(45f7b2e3c78185248b3adbb14429c2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe127a8a65fcec4f52e19b7262283641') in 0.025082 seconds
+  Import took 0.042787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.044570 seconds.
+  path: Assets/ExampleAssets/Materials
+  artifactKey: Guid(ffd318dbb37362c4f8d87863d082b2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials using Guid(ffd318dbb37362c4f8d87863d082b2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa9951ad658ab46ec0ffa3069c0ef18') in 0.005461 seconds
+  Import took 0.011296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073691 seconds.
+  path: Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat
+  artifactKey: Guid(49076442eeb7e054b8e8869f8b40656d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat using Guid(49076442eeb7e054b8e8869f8b40656d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4e9dbd543783bb659f254020248eb0') in 0.752428 seconds
+  Import took 0.757413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ExampleAssets/Materials/DryWall_Mat.mat
+  artifactKey: Guid(a68228c24abfa2f4b8954d7b0148f799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/DryWall_Mat.mat using Guid(a68228c24abfa2f4b8954d7b0148f799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5886429bc005c058358cd2a39de0ff') in 0.500818 seconds
+  Import took 0.536076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ExampleAssets/Materials/Strap_Mat.mat
+  artifactKey: Guid(81c1860e7800e5340bf8a54c565ba9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Strap_Mat.mat using Guid(81c1860e7800e5340bf8a54c565ba9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749fb85ba727506c67e6d717752390e2') in 0.396668 seconds
+  Import took 0.431342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat
+  artifactKey: Guid(a5aaee4111611af43b5abbff184fe5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat using Guid(a5aaee4111611af43b5abbff184fe5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3569e55e6d01e4e6c9a4b71fd53227f5') in 0.066918 seconds
+  Import took 0.089397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/ExampleAssets/Materials/Ground_Mat.mat
+  artifactKey: Guid(d92ef32394b5f474385d74b565a7bdd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Ground_Mat.mat using Guid(d92ef32394b5f474385d74b565a7bdd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22adae86e62726faf279252dde26c7e') in 0.071159 seconds
+  Import took 0.075640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat
+  artifactKey: Guid(a0427cf339e5891468d5f2b433b2d44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat using Guid(a0427cf339e5891468d5f2b433b2d44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94467d1b3c378b95a34f146f363aac1e') in 0.385560 seconds
+  Import took 0.390174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_Transparent.mat
+  artifactKey: Guid(8a38b7350df9a9c438e568993a00e5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_Transparent.mat using Guid(8a38b7350df9a9c438e568993a00e5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d512d2277dabc4ef60f7606bbc512d6') in 0.287766 seconds
+  Import took 0.320009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/ExampleAssets/Materials/Jigsaw_Mat.mat
+  artifactKey: Guid(801db2d997a562b4ea333aa4593ce0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Jigsaw_Mat.mat using Guid(801db2d997a562b4ea333aa4593ce0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4185ae5c2b337ac23c721e36f35854dd') in 0.077271 seconds
+  Import took 0.101563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/ExampleAssets/Materials/Hammer_Mat.mat
+  artifactKey: Guid(4efcffd7ae23f1e41943fd914b18da10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Hammer_Mat.mat using Guid(4efcffd7ae23f1e41943fd914b18da10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737cc50f52f2bd01bfafed6b86954ed4') in 0.088802 seconds
+  Import took 0.103321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat
+  artifactKey: Guid(bd2d742ee2ce7a740ae0cf992a38be74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat using Guid(bd2d742ee2ce7a740ae0cf992a38be74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7fcb3c2d28d3616972973f594fcd87') in 0.033239 seconds
+  Import took 0.037493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat
+  artifactKey: Guid(4dad30bbe2213eb4d8312f7bb6190866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat using Guid(4dad30bbe2213eb4d8312f7bb6190866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2596d9fb49cddf7cde62b7d009cbda7a') in 0.049382 seconds
+  Import took 0.066485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/ExampleAssets/Materials/PaintLabel_Mat.mat
+  artifactKey: Guid(3da4aad06945bbf4baf801c2aacbc01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/PaintLabel_Mat.mat using Guid(3da4aad06945bbf4baf801c2aacbc01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee8209c458b0ebc3e66a558e6dcadec') in 0.343548 seconds
+  Import took 0.347691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/ExampleAssets/Materials/LightBulb_Mat.mat
+  artifactKey: Guid(ec739259ec61f5d4ba3ed6d34fd802a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/LightBulb_Mat.mat using Guid(ec739259ec61f5d4ba3ed6d34fd802a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097c13853903a6063a6c8eda5d6df8cc') in 0.319579 seconds
+  Import took 0.341448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/ExampleAssets/Materials/HardHat_Mat.mat
+  artifactKey: Guid(e93789f0a5d66df4a81613935579642b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/HardHat_Mat.mat using Guid(e93789f0a5d66df4a81613935579642b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afe18c2c7ebefced96279bab114448d') in 0.062470 seconds
+  Import took 0.066583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat
+  artifactKey: Guid(e745492728544aa488aa0429b6068e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat using Guid(e745492728544aa488aa0429b6068e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520eb29e3dfa2badb755830153e66e7a') in 0.025478 seconds
+  Import took 0.030108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat
+  artifactKey: Guid(9b8eadc4de0544646b75ddcc43f8fd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat using Guid(9b8eadc4de0544646b75ddcc43f8fd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd08e33f43085f86a2d5f3421c2f417') in 0.055441 seconds
+  Import took 0.059572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat
+  artifactKey: Guid(c05de7c865075334786e6a47a543af72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat using Guid(c05de7c865075334786e6a47a543af72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b02f3a3f949a96a8493664af4d91d95') in 0.075646 seconds
+  Import took 0.080103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat
+  artifactKey: Guid(cd71291c91c8cce499cb663b5db9970e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat using Guid(cd71291c91c8cce499cb663b5db9970e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9492a7a1625e504c677deb91b898a002') in 0.013776 seconds
+  Import took 0.018186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat
+  artifactKey: Guid(55c183dc45153be48a45c4e530127fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat using Guid(55c183dc45153be48a45c4e530127fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c7ff498dded74717ccc03c2f2f5b71') in 0.641438 seconds
+  Import took 0.646787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ExampleAssets/Materials/Plastic_White_Mat.mat
+  artifactKey: Guid(6cfe423139c361a459da7ed9831d4b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Plastic_White_Mat.mat using Guid(6cfe423139c361a459da7ed9831d4b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08743f08e5f0a5bd471d16873993bde') in 0.014730 seconds
+  Import took 0.024185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/ExampleAssets/Materials/Liquid_Mat.mat
+  artifactKey: Guid(c532880e607f8c84d8b9bf0c46a522ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Liquid_Mat.mat using Guid(c532880e607f8c84d8b9bf0c46a522ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a3c1e7c673254d1bf3d334f2832c2a') in 0.032973 seconds
+  Import took 0.049731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/ExampleAssets/Materials/OBS_Mat.mat
+  artifactKey: Guid(c438e5c679f1be040a135443008e2fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/OBS_Mat.mat using Guid(c438e5c679f1be040a135443008e2fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9033e57fd75cccafddcb9b24030ed028') in 0.074096 seconds
+  Import took 0.078222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/ExampleAssets/Materials/PaintBrush_Mat.mat
+  artifactKey: Guid(539165557a9d3744680bb21164bea45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/PaintBrush_Mat.mat using Guid(539165557a9d3744680bb21164bea45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ddae9c59affbad982f70aa88771df6') in 0.076199 seconds
+  Import took 0.080791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/ExampleAssets/Materials/Stud_Mat.mat
+  artifactKey: Guid(027cb3d3d7dc79d41ad763e01759de07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Stud_Mat.mat using Guid(027cb3d3d7dc79d41ad763e01759de07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32656ff4d75c4cb40af283fbfc718ca1') in 0.078486 seconds
+  Import took 0.082592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.433466 seconds.
+  path: Assets/Template
+  artifactKey: Guid(053ae68573d84924182b76861226c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Template using Guid(053ae68573d84924182b76861226c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '898c14e6cb1f6987d5efc6a4d16487ef') in 0.003941 seconds
+  Import took 0.008942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.701554 seconds.
+  path: Assets/ExampleAssets
+  artifactKey: Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets using Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86d171bc68fd768341141d484d02dc3') in 0.003178 seconds
+  Import took 0.007591 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.307 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2342 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.5 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2904.
+Total: 4.262500 ms (FindLiveObjects: 0.350500 ms CreateObjectMapping: 0.073700 ms MarkObjects: 2.265700 ms  DeleteObjects: 1.571000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.484477 seconds.
+  path: Assets/PoC Scene.unity
+  artifactKey: Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PoC Scene.unity using Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55d5cc38c4b52f23924476122dcb111') in 0.016356 seconds
+  Import took 0.040270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003309 seconds.
+  path: Assets/PoC Scene.unity
+  artifactKey: Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PoC Scene.unity using Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55d5cc38c4b52f23924476122dcb111') in 0.020758 seconds
+  Import took 0.025175 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.363 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 111.2 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2905.
+Total: 4.365800 ms (FindLiveObjects: 0.345300 ms CreateObjectMapping: 0.075500 ms MarkObjects: 2.215300 ms  DeleteObjects: 1.728800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 836.246293 seconds.
+  path: Assets/Mankeys_sushishop
+  artifactKey: Guid(61d8158d832578f4fa25e3384c284f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop using Guid(61d8158d832578f4fa25e3384c284f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ebeacb2ad98671be714096f0dc34e3') in 0.006103 seconds
+  Import took 0.011407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.743502 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs
+  artifactKey: Guid(fcb6c67e96388984490da85a357871a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs using Guid(fcb6c67e96388984490da85a357871a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8789f341ec7849423f0a3f9b5efe59ff') in 0.003371 seconds
+  Import took 0.007858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081622 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Coconut_A.prefab
+  artifactKey: Guid(653118c2191c241438e8f0494b2438c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Coconut_A.prefab using Guid(653118c2191c241438e8f0494b2438c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8633f4966fa489e5483a647ccb5472e6') in 0.081789 seconds
+  Import took 0.086371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Small_target.prefab
+  artifactKey: Guid(0fb30abf922c6e645942b55f72131a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Small_target.prefab using Guid(0fb30abf922c6e645942b55f72131a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47927d22a10f0bea7f7e7dfc4dc50085') in 0.013170 seconds
+  Import took 0.017132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Mono_throw_coconut1(generic).prefab
+  artifactKey: Guid(f7a2f54d4b616cf408ada4736cf15aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Mono_throw_coconut1(generic).prefab using Guid(f7a2f54d4b616cf408ada4736cf15aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cddf4720719f5cfe0a41986da3ab9e01') in 0.101162 seconds
+  Import took 0.106239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d645fb250d0e5665efe51033993723') in 0.110654 seconds
+  Import took 0.119114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.174075 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_boca.FBX
+  artifactKey: Guid(fdb0cdb70153b834290a22af13c05669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_boca.FBX using Guid(fdb0cdb70153b834290a22af13c05669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6b2d59b59f5117fcdb2a962c69a34c') in 0.179204 seconds
+  Import took 0.184770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_corriendo1.FBX
+  artifactKey: Guid(a455d2e162a9331479810228d4546ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_corriendo1.FBX using Guid(a455d2e162a9331479810228d4546ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d087a76684a3428abbc9f2ec097798') in 0.091118 seconds
+  Import took 0.096215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_idle_crouch_long.FBX
+  artifactKey: Guid(3af1006136470e3409617568e7857a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_idle_crouch_long.FBX using Guid(3af1006136470e3409617568e7857a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4399e207ec341dc5453e5e579c612305') in 0.092781 seconds
+  Import took 0.098391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_slapL.FBX
+  artifactKey: Guid(4713d041eb2c0a24ca24d9153a548589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_slapL.FBX using Guid(4713d041eb2c0a24ca24d9153a548589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd962ca12a1bf1853005a043d791c7cf') in 0.074004 seconds
+  Import took 0.079830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_walk.FBX
+  artifactKey: Guid(bbf9076cbab95ea448bae274a14b1224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_walk.FBX using Guid(bbf9076cbab95ea448bae274a14b1224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ca42029e670210c989fe1c0eb31327') in 0.089995 seconds
+  Import took 0.095946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_corriendo2.FBX
+  artifactKey: Guid(ab5be8d480ff3214cafc73fe5829f703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_corriendo2.FBX using Guid(ab5be8d480ff3214cafc73fe5829f703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7130b57b5d5a668145debbe66a37e3ad') in 0.089662 seconds
+  Import took 0.096395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_idle1.FBX
+  artifactKey: Guid(fa474c68d2e036b4ab497feb8d95b88e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_idle1.FBX using Guid(fa474c68d2e036b4ab497feb8d95b88e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be28c70c0ff4ec42887a0a2653ea0325') in 0.091757 seconds
+  Import took 0.097290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_roll.FBX
+  artifactKey: Guid(5196865986cd40e449d6771c575e7e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_roll.FBX using Guid(5196865986cd40e449d6771c575e7e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce3c02d1a169294a7577662da8f2ad8') in 0.085594 seconds
+  Import took 0.090740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_slapped.FBX
+  artifactKey: Guid(96eec191a37479a4fa4e92ba7c895618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_slapped.FBX using Guid(96eec191a37479a4fa4e92ba7c895618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c2489d253d6cab3ad2adeab7fb83ec') in 0.089569 seconds
+  Import took 0.094895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_slapR.FBX
+  artifactKey: Guid(527ef9e701b966841bc26e03bd5301e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_slapR.FBX using Guid(527ef9e701b966841bc26e03bd5301e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8ecf0862798f8270124347a90bea0d') in 0.086465 seconds
+  Import took 0.091723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_turn_fast1.FBX
+  artifactKey: Guid(657ab36af77c3f942bf0eb385c3bc675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_turn_fast1.FBX using Guid(657ab36af77c3f942bf0eb385c3bc675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e940f4b9b3ab11a6e7aada78b3f31c42') in 0.085216 seconds
+  Import took 0.090037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_throw_coconut1(generic).FBX
+  artifactKey: Guid(aab89308f2f46a74b9938d984c59a9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_throw_coconut1(generic).FBX using Guid(aab89308f2f46a74b9938d984c59a9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf6ad93d0de09e4b09eae6bd09fa564') in 0.096702 seconds
+  Import took 0.101873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_roll_jump.FBX
+  artifactKey: Guid(019ae4d5d484f4c4282bb063d391969f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_roll_jump.FBX using Guid(019ae4d5d484f4c4282bb063d391969f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfdc55c369a9e92b192a346a17d7e5b') in 0.080110 seconds
+  Import took 0.086277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_throw.FBX
+  artifactKey: Guid(59d2d9b6386c309408b5259baf76e90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_throw.FBX using Guid(59d2d9b6386c309408b5259baf76e90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febc6f81944ed856941ea5da665c829c') in 0.104020 seconds
+  Import took 0.109430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_jump1.FBX
+  artifactKey: Guid(bed891be969d3424b89e41af74a5f244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_jump1.FBX using Guid(bed891be969d3424b89e41af74a5f244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a703f1061a5f3ca91824393f90cf0458') in 0.197752 seconds
+  Import took 0.202853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_turn1.FBX
+  artifactKey: Guid(35f47d54a74eb634aae34a61ffefa898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_turn1.FBX using Guid(35f47d54a74eb634aae34a61ffefa898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df62da191db062a3607af90a9600267d') in 0.079242 seconds
+  Import took 0.086025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_idle1(generic).FBX
+  artifactKey: Guid(9be90c59465f09f4dbbd4e376cdd04c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_idle1(generic).FBX using Guid(9be90c59465f09f4dbbd4e376cdd04c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010dabacd6b014e64bd1d9e948e7bb07') in 0.087986 seconds
+  Import took 0.093099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_turn_fast2.FBX
+  artifactKey: Guid(a7863c4056b12cb4c8c23fbe06f9ab8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_turn_fast2.FBX using Guid(a7863c4056b12cb4c8c23fbe06f9ab8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da304f2884160ca83af46c06044007c2') in 0.080497 seconds
+  Import took 0.085488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_throw2.FBX
+  artifactKey: Guid(6be496f5f2ff08b4881940b369914828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_throw2.FBX using Guid(6be496f5f2ff08b4881940b369914828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fc3e043b505530dd1848a82e62fe25') in 0.096253 seconds
+  Import took 0.101547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_crouch.FBX
+  artifactKey: Guid(8ef52ec0dc628404690d3647dff4cf29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_crouch.FBX using Guid(8ef52ec0dc628404690d3647dff4cf29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773595463eb46270b7a32e19477c20a7') in 0.081011 seconds
+  Import took 0.087009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/Mono_slapR_still.FBX
+  artifactKey: Guid(10924a2e8fff6414a8183c7f2a69eb57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/Mono_slapR_still.FBX using Guid(10924a2e8fff6414a8183c7f2a69eb57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb6debe9e4f7eff48d8ba9d9fb66873') in 0.085831 seconds
+  Import took 0.090978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.175691 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Banana.mat
+  artifactKey: Guid(b998beb8390f4684a907bb09e14e78ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Banana.mat using Guid(b998beb8390f4684a907bb09e14e78ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2740eb78e79337fe6b5c23f144d0db3') in 0.159109 seconds
+  Import took 0.163957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Mankeys_sushishop/Materials/material0.mat
+  artifactKey: Guid(5a100c7e37880d946b6a27efc14fd523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/material0.mat using Guid(5a100c7e37880d946b6a27efc14fd523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e883ca4f0652c88b64c5d3f9d342a3c7') in 0.015139 seconds
+  Import took 0.019551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Monkey_tie.mat
+  artifactKey: Guid(1a27522b7bb815c409a28f47411b76aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Monkey_tie.mat using Guid(1a27522b7bb815c409a28f47411b76aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e7694eb8c05f23a86bbce6661dc798') in 0.011341 seconds
+  Import took 0.015605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Mankeys_sushishop/Materials/cocont.mat
+  artifactKey: Guid(bdd43058ada52f241aadbab5a78e66c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/cocont.mat using Guid(bdd43058ada52f241aadbab5a78e66c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402dd1bdce4c2eaa064b33973ce59fea') in 0.012557 seconds
+  Import took 0.016792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Mahgnkey_eyes_mat.mat
+  artifactKey: Guid(c9a57a9f76775f042ba9e3440470ec5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Mahgnkey_eyes_mat.mat using Guid(c9a57a9f76775f042ba9e3440470ec5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c2d43d62697b97ed81474ced1d3c79') in 0.019717 seconds
+  Import took 0.024298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Monkey_test.mat
+  artifactKey: Guid(93959bd209ef3354eabe64da89096fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Monkey_test.mat using Guid(93959bd209ef3354eabe64da89096fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '625cbd4b1779e86f01a2511c9e438e55') in 0.015787 seconds
+  Import took 0.020784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Logo.mat
+  artifactKey: Guid(66125bec55064c242969690e1f9cf5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Logo.mat using Guid(66125bec55064c242969690e1f9cf5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5268e972d6f7129547683752d737b5ba') in 0.044412 seconds
+  Import took 0.050228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Mesa3.mat
+  artifactKey: Guid(508405181c6d21c4a9f416cc7cbe0c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Mesa3.mat using Guid(508405181c6d21c4a9f416cc7cbe0c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e77b2de447a9107c40fbf3dd1b0c296') in 0.014491 seconds
+  Import took 0.019700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Mankeys_sushishop/Materials/water.mat
+  artifactKey: Guid(c549a80db75c13f4abea331ea59e585c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/water.mat using Guid(c549a80db75c13f4abea331ea59e585c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257a11048f385208ae9a5e408f94932f') in 0.012180 seconds
+  Import took 0.016731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Mahgnkey_mat.mat
+  artifactKey: Guid(db2ffc45a69362d49a6ee7008d1c3ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Mahgnkey_mat.mat using Guid(db2ffc45a69362d49a6ee7008d1c3ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cee0140661162a4786292defd1ffedc') in 0.019405 seconds
+  Import took 0.024011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Monkey_1.mat
+  artifactKey: Guid(3c7a62b1655fdf346a111a8b9987a3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Monkey_1.mat using Guid(3c7a62b1655fdf346a111a8b9987a3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084e1a3c362b2e2b7693abbc60fcd588') in 0.018450 seconds
+  Import took 0.025044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Mankeys_sushishop/Materials/grey_material4.mat
+  artifactKey: Guid(298da7fe5bd420d4c839d90b8b4d4f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/grey_material4.mat using Guid(298da7fe5bd420d4c839d90b8b4d4f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bffd9af7589d4a7633272970f01716e') in 0.022015 seconds
+  Import took 0.026750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Banana3.mat
+  artifactKey: Guid(151aed29769a8784f88f81353ac1106e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Banana3.mat using Guid(151aed29769a8784f88f81353ac1106e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3294a5611c29c7a25b8ad6630db89b77') in 0.012595 seconds
+  Import took 0.017556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Mankeys_sushishop/Materials/cocont2.mat
+  artifactKey: Guid(336b8346dd87b37498208fc9c0c66c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/cocont2.mat using Guid(336b8346dd87b37498208fc9c0c66c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dbad87aa75f50ade831538c00e029a7') in 0.010960 seconds
+  Import took 0.015802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Mankeys_sushishop/Materials/SKy.mat
+  artifactKey: Guid(211180ecbb3617346985d88196313c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/SKy.mat using Guid(211180ecbb3617346985d88196313c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee3acd19a871d846f7f189eea8bde6b') in 0.040539 seconds
+  Import took 0.045156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Emission.mat
+  artifactKey: Guid(95bab0baed11ef74aad3f0162b7f07c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Emission.mat using Guid(95bab0baed11ef74aad3f0162b7f07c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6fd7dfb0f2d90318a3a501cb167a95') in 0.017731 seconds
+  Import took 0.034628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Grey_rock.mat
+  artifactKey: Guid(ba49a79d590ff7d4cb0ce09fd1120c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Grey_rock.mat using Guid(ba49a79d590ff7d4cb0ce09fd1120c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17b928d65e6da79cfd26775554e4891') in 0.011812 seconds
+  Import took 0.018153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Mankeys_sushishop/Materials/palm_leaf.mat
+  artifactKey: Guid(7969aa5b6c8c1e84ea4bac94439093c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/palm_leaf.mat using Guid(7969aa5b6c8c1e84ea4bac94439093c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c41e8e00ff5c1c9b27dd0b0c79e4ed') in 0.015841 seconds
+  Import took 0.020670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Grey_rock2.mat
+  artifactKey: Guid(f80d79f323dfda243be53b0128c618c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Grey_rock2.mat using Guid(f80d79f323dfda243be53b0128c618c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bf27b14338d7f66921139cc04777f7') in 0.012287 seconds
+  Import took 0.016951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Mesa2.mat
+  artifactKey: Guid(6fa9743ea811aef48ad2ab9cddc23751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Mesa2.mat using Guid(6fa9743ea811aef48ad2ab9cddc23751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3fab8d17892995f6d4710d4934e7590') in 0.012950 seconds
+  Import took 0.030077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Salchicha1.mat
+  artifactKey: Guid(0abcea8b68c480243b1ae9abd2570de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Salchicha1.mat using Guid(0abcea8b68c480243b1ae9abd2570de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4094db043d1b2810fecec2f4d92abc') in 0.011402 seconds
+  Import took 0.016336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Sand.mat
+  artifactKey: Guid(9bab7cfeaf146994bb6539ea5d4ad420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Sand.mat using Guid(9bab7cfeaf146994bb6539ea5d4ad420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e49b1e86d9e8781cfeb3a7e1787d3a') in 0.010635 seconds
+  Import took 0.015454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Mankeys_sushishop/Materials/sky2.mat
+  artifactKey: Guid(a1b32eefc30109f4ab45b9c4c7783aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/sky2.mat using Guid(a1b32eefc30109f4ab45b9c4c7783aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3acec978d52f371da3e2e04946484fa') in 0.196936 seconds
+  Import took 0.202004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Mankeys_sushishop/Materials/default.mat
+  artifactKey: Guid(258d67c720bc5d143aaf6ce73d0c16d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/default.mat using Guid(258d67c720bc5d143aaf6ce73d0c16d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6a4fe9757c67a80fd5e6360b43646f') in 0.011024 seconds
+  Import took 0.026575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Monkey_eye1.mat
+  artifactKey: Guid(2dccf874efe80a545af7629253d6c4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Monkey_eye1.mat using Guid(2dccf874efe80a545af7629253d6c4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1bf67179936b9b854237b6f978eff4c') in 0.013026 seconds
+  Import took 0.017772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Palm_tree.mat
+  artifactKey: Guid(ba54180e935e43641921f8cd5e4c7241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Palm_tree.mat using Guid(ba54180e935e43641921f8cd5e4c7241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c59badf11565f0998e46021055c6368') in 0.015170 seconds
+  Import took 0.021019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Mankeys_sushishop/Materials/cocont2x.mat
+  artifactKey: Guid(17dfde28eeb92c443a05515a6be03cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/cocont2x.mat using Guid(17dfde28eeb92c443a05515a6be03cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80225e32727d1cce9256cf16a9d691da') in 0.014014 seconds
+  Import took 0.030300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Banana2.mat
+  artifactKey: Guid(2db1901c03e38de42ada53ee8965906c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Banana2.mat using Guid(2db1901c03e38de42ada53ee8965906c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6d71fdfed3b837bacdd8754ed5ecb2') in 0.014095 seconds
+  Import took 0.020382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Mesa1.mat
+  artifactKey: Guid(61f205615a48e5646ac3f59c7a7e1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Mesa1.mat using Guid(61f205615a48e5646ac3f59c7a7e1d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14a3b2432db1969acdc11575d758f0b') in 0.018472 seconds
+  Import took 0.023282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Skybos.mat
+  artifactKey: Guid(b18b7adee8353da40a2434a386d07f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Skybos.mat using Guid(b18b7adee8353da40a2434a386d07f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1c517700262e54c35721175fb13520') in 0.014150 seconds
+  Import took 0.018697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Mankeys_sushishop/Materials/Emmissive.mat
+  artifactKey: Guid(cfb90e335b6bbe4449e091fc164fdccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials/Emmissive.mat using Guid(cfb90e335b6bbe4449e091fc164fdccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834064b423b5f0a4d74ecfa27bb8b3c3') in 0.011030 seconds
+  Import took 0.024351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.309300 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab
+  artifactKey: Guid(54eb5844754051b40a918a84c33b7c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab using Guid(54eb5844754051b40a918a84c33b7c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24ec5e309fe95f32b14e5befe0ced2f') in 0.390246 seconds
+  Import took 0.399252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI BitField.prefab
+  artifactKey: Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI BitField.prefab using Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6c814fd22eba763adca3525d275f85') in 19.269823 seconds
+  Import took 19.276966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI EnumHistory.prefab
+  artifactKey: Guid(b2da6b27df236b144b3516ed8e7d36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI EnumHistory.prefab using Guid(b2da6b27df236b144b3516ed8e7d36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3448cbd182b62c17ddd0400ece659cfc') in 1.793732 seconds
+  Import took 1.798327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Button.prefab
+  artifactKey: Guid(f6ce33b91f6ffe54cadacbf4bb112440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Button.prefab using Guid(f6ce33b91f6ffe54cadacbf4bb112440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fdaa7de1437dbe6689860c1f15a0da') in 0.011644 seconds
+  Import took 0.015835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI EnumField.prefab
+  artifactKey: Guid(988db55689193434fb0b3b89538f978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI EnumField.prefab using Guid(988db55689193434fb0b3b89538f978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1253d8b48339b1ea897de945110b93c6') in 0.007091 seconds
+  Import took 1.765603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Color.prefab
+  artifactKey: Guid(77c185820dd1a464eac89cae3abccddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Color.prefab using Guid(77c185820dd1a464eac89cae3abccddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ee30dddb0ee019ba78385d836754f5') in 0.012307 seconds
+  Import took 0.017072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI FloatField.prefab
+  artifactKey: Guid(7d4fd3415ea7dd64bbcfe13fb48a730b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI FloatField.prefab using Guid(7d4fd3415ea7dd64bbcfe13fb48a730b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e923bbcb816ef7424263a60cb71d649') in 3.639059 seconds
+  Import took 3.645704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Foldout.prefab
+  artifactKey: Guid(1c87ab2ce8b8b304d98fbe9a734b1f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Foldout.prefab using Guid(1c87ab2ce8b8b304d98fbe9a734b1f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8a79196a13c45710e15b84316910a6') in 0.823802 seconds
+  Import took 0.828705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000832 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Group.prefab
+  artifactKey: Guid(38a07789c9e87004dad98c2909f58369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Group.prefab using Guid(38a07789c9e87004dad98c2909f58369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7208ae9df154a8d51b01393c55478aa3') in 0.010907 seconds
+  Import took 0.016949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI HBox.prefab
+  artifactKey: Guid(f7f5e36797cf0c1408561665c67b179b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI HBox.prefab using Guid(f7f5e36797cf0c1408561665c67b179b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31934f74088431505dcd5bdcb992881') in 0.006265 seconds
+  Import took 0.031729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI IntField.prefab
+  artifactKey: Guid(ae00bb75e0cd5b04b8fe7fb4ab662629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI IntField.prefab using Guid(ae00bb75e0cd5b04b8fe7fb4ab662629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8149550fde2cc40054ede7e3a41be5d') in 0.012401 seconds
+  Import took 0.020348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Panel.prefab
+  artifactKey: Guid(daa46a58178a6ad41ae1ddc2dc7f856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Panel.prefab using Guid(daa46a58178a6ad41ae1ddc2dc7f856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ab8f4fd7f1a28217ccd06778f31b5e') in 0.021335 seconds
+  Import took 0.026638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Row.prefab
+  artifactKey: Guid(2d019437ff89b8d44949727731cd9357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Row.prefab using Guid(2d019437ff89b8d44949727731cd9357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925fc371124145f0835b4491f209826f') in 0.160163 seconds
+  Import took 0.164980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Toggle.prefab
+  artifactKey: Guid(ce347ad101f41ee4ab5c3fbc0ea447db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Toggle.prefab using Guid(ce347ad101f41ee4ab5c3fbc0ea447db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94822e937a42b80c632fc49715a82706') in 0.152206 seconds
+  Import took 0.156468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI ToggleHistory.prefab
+  artifactKey: Guid(5088d0220f0c4df439cf06c5c270eacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI ToggleHistory.prefab using Guid(5088d0220f0c4df439cf06c5c270eacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62597ca8eaafbcd952a0a84a5f32f32') in 0.127076 seconds
+  Import took 0.131647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI UIntField.prefab
+  artifactKey: Guid(f22bcc84a5f4a1944b075a2c4ac71493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI UIntField.prefab using Guid(f22bcc84a5f4a1944b075a2c4ac71493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1842ba45e26deacdfc4ef36e43237dcf') in 0.163447 seconds
+  Import took 0.168316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUI Persistent Canvas.prefab
+  artifactKey: Guid(f6b1a0fe75d5009449cf55ae76220e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUI Persistent Canvas.prefab using Guid(f6b1a0fe75d5009449cf55ae76220e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8884d55b28857d02a56e23650984aa') in 0.101288 seconds
+  Import took 0.106604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Vector2.prefab
+  artifactKey: Guid(326f7c58aed965d41bf7805a782d1e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Vector2.prefab using Guid(326f7c58aed965d41bf7805a782d1e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9438b43df80a8f26f3c974925eeb2dc5') in 0.016821 seconds
+  Import took 0.021709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Vector3.prefab
+  artifactKey: Guid(94afea5f242d72547979595ba963f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Vector3.prefab using Guid(94afea5f242d72547979595ba963f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9b2b5c2dc716e51cc8ed49a1e12b2e') in 0.010252 seconds
+  Import took 0.015443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Value.prefab
+  artifactKey: Guid(dc0f88987826e6e48b1fe9c7c2b53a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Value.prefab using Guid(dc0f88987826e6e48b1fe9c7c2b53a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d4c94d07adef1d061b2bfaa202ba9b') in 0.007476 seconds
+  Import took 0.035204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab
+  artifactKey: Guid(49a0e923d39ec3c4c8bb97699e2f2903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab using Guid(49a0e923d39ec3c4c8bb97699e2f2903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10a83dfdb88505beefb65919fe5373d') in 0.009213 seconds
+  Import took 0.015380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/HandheldCamera.prefab
+  artifactKey: Guid(a5be31db3f71b0642af74fe491b4bc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/HandheldCamera.prefab using Guid(a5be31db3f71b0642af74fe491b4bc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080c2fe7fbc933078cdf372568c83625') in 0.007084 seconds
+  Import took 0.013557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001014 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/MultipurposeCameraRig.prefab
+  artifactKey: Guid(baec086904791744185aaa07a6cf55c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/MultipurposeCameraRig.prefab using Guid(baec086904791744185aaa07a6cf55c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffd08c1569c33c7d1f2674192a5cbc0') in 0.007034 seconds
+  Import took 0.012686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Utility/Prefabs/FramerateCounter.prefab
+  artifactKey: Guid(81154777d5417884981849c5243f6c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Utility/Prefabs/FramerateCounter.prefab using Guid(81154777d5417884981849c5243f6c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d32d470f1bde77d80a1b3d22f1f0049') in 0.006335 seconds
+  Import took 0.011162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Vector4.prefab
+  artifactKey: Guid(d47f009476100f545971a81ede14c750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI Vector4.prefab using Guid(d47f009476100f545971a81ede14c750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfdc7b70cd1bdd0bd2f761a64a8513e') in 0.013360 seconds
+  Import took 0.033988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab
+  artifactKey: Guid(7737647c22c1fc64a88d5cd030c352ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab using Guid(7737647c22c1fc64a88d5cd030c352ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fbc23f144ced9af6132dff5b22d8519') in 0.111093 seconds
+  Import took 0.120376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/CctvCamera.prefab
+  artifactKey: Guid(851d11542d51c464e89acf6875599172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs/CctvCamera.prefab using Guid(851d11542d51c464e89acf6875599172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885da6e6f51ff89095e9472141e715b3') in 0.007342 seconds
+  Import took 0.012474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI VBox.prefab
+  artifactKey: Guid(ca3e294656861a64b8aeeb9f916da0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUI VBox.prefab using Guid(ca3e294656861a64b8aeeb9f916da0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe1a140844f4832ac93b60856df6fd4') in 0.009043 seconds
+  Import took 0.015361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUI Canvas.prefab
+  artifactKey: Guid(cf6cbdd672089a84796e55a21fed1cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUI Canvas.prefab using Guid(cf6cbdd672089a84796e55a21fed1cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7079ac70c51cc40c47c00aa961b6657') in 0.047515 seconds
+  Import took 0.111211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.151615 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6374019befeac6ce670f13ba9960efb') in 0.003007 seconds
+  Import took 0.007552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.528858 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(38b48b9064a87d145b9976d1646e14aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(38b48b9064a87d145b9976d1646e14aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4145b0fcbe2d4cc4114749172daa5d7') in 0.003087 seconds
+  Import took 0.007775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.233157 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(a7b0b0cae79688c40abb2469c04dd1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a7b0b0cae79688c40abb2469c04dd1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c72894e48bc62a9b74399885804514') in 0.003101 seconds
+  Import took 0.007913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.858270 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters
+  artifactKey: Guid(8c32f58513a41ef4dab9cb7704c5fb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters using Guid(8c32f58513a41ef4dab9cb7704c5fb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843870c3d14c6155c3063bef8017a1bb') in 0.003335 seconds
+  Import took 0.025508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.930234 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter
+  artifactKey: Guid(8912f13e18e67bc478684ec30d73bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter using Guid(8912f13e18e67bc478684ec30d73bc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de5fb42a0adf2fd6cd6fcf64d6164ad') in 0.003245 seconds
+  Import took 0.007830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.303416 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Models
+  artifactKey: Guid(aef224e1951a8274684081643c7fa672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Models using Guid(aef224e1951a8274684081643c7fa672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d61720d2c93077d8a07e1f0574632ef') in 0.003968 seconds
+  Import took 0.010348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024549 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx
+  artifactKey: Guid(b235179bd2a63d1468dd430670338c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx using Guid(b235179bd2a63d1468dd430670338c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7480b7d2d7c9cae1ccb05c367073bf23') in 0.122532 seconds
+  Import took 0.130208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.582939 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png
+  artifactKey: Guid(3b5b7be0f2332c24f89a2af018daa62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png using Guid(3b5b7be0f2332c24f89a2af018daa62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d7e4cbd73d7d7065b305d7dee5cf02') in 0.072030 seconds
+  Import took 0.100987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png
+  artifactKey: Guid(4e2f32e9a1fefc24092337ae061f3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png using Guid(4e2f32e9a1fefc24092337ae061f3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90dae68243b813fe18a314deb1a1f500') in 0.020381 seconds
+  Import took 0.025464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.080846 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat
+  artifactKey: Guid(621e901dcf5ebaf46bce29d18f67194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat using Guid(621e901dcf5ebaf46bce29d18f67194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1308188540928268e7734d3dc493a0ab') in 0.040300 seconds
+  Import took 0.047102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat
+  artifactKey: Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat using Guid(f62b52b2d4b721742a0bc5c6b4db468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f9657e1b2caf796706d94b9f41fc0e') in 0.041473 seconds
+  Import took 0.047746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.472893 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx
+  artifactKey: Guid(d89ea37480b6d75458aa38843e9688dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx using Guid(d89ea37480b6d75458aa38843e9688dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21edee711f929efb9d792e3a3a941ef0') in 0.060698 seconds
+  Import took 0.066058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx
+  artifactKey: Guid(51dd2e4c869794f75a0df7d54b210214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx using Guid(51dd2e4c869794f75a0df7d54b210214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1478bf5a68a2aeb0f779397d3e2eeee') in 0.046085 seconds
+  Import took 0.051378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx
+  artifactKey: Guid(6fb3851da6a6f5948ab6892bee8ba920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx using Guid(6fb3851da6a6f5948ab6892bee8ba920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c5df426a39429d33aba119958e13c3') in 0.063362 seconds
+  Import took 0.068405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx
+  artifactKey: Guid(dffa50cfe77e0434bbfa71245b3dd529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx using Guid(dffa50cfe77e0434bbfa71245b3dd529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe4a927ff2d64f15458bdec19e28ceb') in 0.055064 seconds
+  Import took 0.059790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx
+  artifactKey: Guid(f2bed5dc5afacff44a00de8daae9703b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx using Guid(f2bed5dc5afacff44a00de8daae9703b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc462e9725191de7794f718949a7a154') in 0.050010 seconds
+  Import took 0.066615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx
+  artifactKey: Guid(b1a5e04ae51004842aba06704a6c2903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx using Guid(b1a5e04ae51004842aba06704a6c2903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51c0a8e917ce50c0d88546b703f8657') in 0.053327 seconds
+  Import took 0.057981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx
+  artifactKey: Guid(1cb8ed3cbba15f0479fbae54e0a963df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx using Guid(1cb8ed3cbba15f0479fbae54e0a963df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f39abae03bd6aa83c4491cf5a479f5e') in 0.049429 seconds
+  Import took 0.056553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx
+  artifactKey: Guid(f03e10c73f30b4ab4aa8ea8f1cc16d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx using Guid(f03e10c73f30b4ab4aa8ea8f1cc16d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165189670526d1923908de402a79cc29') in 0.050107 seconds
+  Import took 0.075908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx
+  artifactKey: Guid(0d9d26e2162aa4d11ab075b34c029673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx using Guid(0d9d26e2162aa4d11ab075b34c029673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a86d60dbebb058841c77706ba7451c') in 0.043098 seconds
+  Import took 0.049051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx
+  artifactKey: Guid(1c52c953c83c2254a9fa72d50250f028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx using Guid(1c52c953c83c2254a9fa72d50250f028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6cd8a1b487645fdd5631be423b7fc0') in 0.051545 seconds
+  Import took 0.057066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx
+  artifactKey: Guid(bb141fc9a700c9c4ca7e6dadb8acf24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx using Guid(bb141fc9a700c9c4ca7e6dadb8acf24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a2385dfbda2ce3e28c5729b6d93e96') in 0.058984 seconds
+  Import took 0.065816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx
+  artifactKey: Guid(1062212255550964e974f3ffb3cbaae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx using Guid(1062212255550964e974f3ffb3cbaae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ade8a3ab7987e848e5a39ebac75db0') in 0.037996 seconds
+  Import took 0.043562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.363012 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs
+  artifactKey: Guid(a869b219648fd6c47a3c134f3520ccff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Prefabs using Guid(a869b219648fd6c47a3c134f3520ccff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da10afa282fb9badac49f9bbf67cb640') in 0.003657 seconds
+  Import took 0.008438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.146978 seconds.
+  path: Assets/Mankeys_sushishop/FBX/Coconut_A.FBX
+  artifactKey: Guid(cb894545d48c725469ac0799bc6ace61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX/Coconut_A.FBX using Guid(cb894545d48c725469ac0799bc6ace61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa85af83723aff9a4c86897d5904cf7') in 0.020292 seconds
+  Import took 0.025275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Mankeys_sushishop/FBX/Mono_tail.FBX
+  artifactKey: Guid(a23b248df45e7184e91a1a4d2e48f571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX/Mono_tail.FBX using Guid(a23b248df45e7184e91a1a4d2e48f571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546050bf7e1a298757b7fa9a4f600cb6') in 0.038964 seconds
+  Import took 0.043549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Mankeys_sushishop/FBX/Palm_tree.FBX
+  artifactKey: Guid(9e1cf363b4aed1d49bd61aa66893b23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX/Palm_tree.FBX using Guid(9e1cf363b4aed1d49bd61aa66893b23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3dc51eca471bdec36a14eb24fdda89') in 0.182170 seconds
+  Import took 0.208970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Mankeys_sushishop/FBX/Mankey.FBX
+  artifactKey: Guid(b0db79c58a2aa3747a484750f5a19d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX/Mankey.FBX using Guid(b0db79c58a2aa3747a484750f5a19d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359bf20bd77ef41e4fc05d94a023d013') in 0.172852 seconds
+  Import took 0.177931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.115757 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/static poses
+  artifactKey: Guid(d566087ce8b14af4cbcacf16f12deafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/static poses using Guid(d566087ce8b14af4cbcacf16f12deafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641c4928ca0997fa163787cc7f732613') in 0.003121 seconds
+  Import took 0.007753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094109 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_poses_3wisemonkeys.FBX
+  artifactKey: Guid(9261d722556660e48a045b9b5add8a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_poses_3wisemonkeys.FBX using Guid(9261d722556660e48a045b9b5add8a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf1219049afae96d53a80d5fd09b045') in 0.180077 seconds
+  Import took 0.185493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_table.FBX
+  artifactKey: Guid(3c3ecd5e27e0d4a4c86b584f8f5dfecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_table.FBX using Guid(3c3ecd5e27e0d4a4c86b584f8f5dfecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa30b7f3089c42012b617b2c75ccf03') in 0.227716 seconds
+  Import took 0.232919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_uvs.FBX
+  artifactKey: Guid(5af30781e33dc8e4f820bacdad65e386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_uvs.FBX using Guid(5af30781e33dc8e4f820bacdad65e386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040a9badca4163457eaabb38f0514307') in 0.223768 seconds
+  Import took 0.228990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_salchicha1.FBX
+  artifactKey: Guid(3123a217b6472704cbf2df02a7febb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/static poses/Mono_salchicha1.FBX using Guid(3123a217b6472704cbf2df02a7febb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a011df1267f2725f52781f64289f770a') in 0.239020 seconds
+  Import took 0.268644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.395254 seconds.
+  path: Assets/Mankeys_sushishop/Scripts/InputManager.cs
+  artifactKey: Guid(c1f26a3fb509a124db0b65635e2e94ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts/InputManager.cs using Guid(c1f26a3fb509a124db0b65635e2e94ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c7a0f7aebc8c9f688ce2f6beb0229f') in 0.012183 seconds
+  Import took 0.017047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.215362 seconds.
+  path: Assets/Mankeys_sushishop/Scripts/ShootBehaviour.cs
+  artifactKey: Guid(14bae4f3ff8234040b9cb62290ac5e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts/ShootBehaviour.cs using Guid(14bae4f3ff8234040b9cb62290ac5e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be32ee6e1351bbe52a6813d118311a49') in 0.003300 seconds
+  Import took 0.008110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.959768 seconds.
+  path: Assets/Mankeys_sushishop/Scripts/Mono_throw_upperbody(script).anim
+  artifactKey: Guid(2e356b8b07d2ebe42a0f8b1bb31aa34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts/Mono_throw_upperbody(script).anim using Guid(2e356b8b07d2ebe42a0f8b1bb31aa34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0742ca6e83d5fe41141a977af2c2982') in 0.051920 seconds
+  Import took 0.073562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.400817 seconds.
+  path: Assets/Mankeys_sushishop/Scripts/Mono_throw(script).anim
+  artifactKey: Guid(7c4154d59cb9d5646adf908e59885db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts/Mono_throw(script).anim using Guid(7c4154d59cb9d5646adf908e59885db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3c87f2a80ff9a1b23dd6c894373783') in 0.040904 seconds
+  Import took 0.045919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003312 seconds.
+  path: Assets/Mankeys_sushishop/Scripts/Mono_throw(script).anim
+  artifactKey: Guid(7c4154d59cb9d5646adf908e59885db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Scripts/Mono_throw(script).anim using Guid(7c4154d59cb9d5646adf908e59885db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3c87f2a80ff9a1b23dd6c894373783') in 0.018235 seconds
+  Import took 0.023598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.512369 seconds.
+  path: Assets/Mankeys_sushishop/Animation_Controller_GAME
+  artifactKey: Guid(fe3fe0829777ef541b443a0f65141418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Animation_Controller_GAME using Guid(fe3fe0829777ef541b443a0f65141418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8e4bb45fe235d6aa57e2e520455f2b') in 0.003544 seconds
+  Import took 0.008488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.365065 seconds.
+  path: Assets/Mankeys_sushishop/Materials
+  artifactKey: Guid(eb1b74594b9516a47a006ef1efc38135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Materials using Guid(eb1b74594b9516a47a006ef1efc38135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00de5ab5934636df23439795d1b4b1ad') in 0.014004 seconds
+  Import took 0.018495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.038902 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_back.png
+  artifactKey: Guid(0d49f6f98356be5419912a6358687062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_back.png using Guid(0d49f6f98356be5419912a6358687062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fef57f17cf72c22b511a199d500e5e2') in 0.174052 seconds
+  Import took 0.178873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_left.png
+  artifactKey: Guid(47ea6b8392eea4c4f8ab69cbe2d1cd3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_left.png using Guid(47ea6b8392eea4c4f8ab69cbe2d1cd3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a310f4f9a700d7a0f2c6f0262d57cf62') in 0.086332 seconds
+  Import took 0.090723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_skybox.mat
+  artifactKey: Guid(6b0381e82648edb4497b56edfb2fbb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_skybox.mat using Guid(6b0381e82648edb4497b56edfb2fbb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5e1080fde3835c3f088c8255336208') in 0.276695 seconds
+  Import took 0.282120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_right.png
+  artifactKey: Guid(69fd5cc1b2fd855448481416474bad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_right.png using Guid(69fd5cc1b2fd855448481416474bad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b1310b12cfd8bf41d79d5edbad2834') in 0.011371 seconds
+  Import took 0.027762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_front.png
+  artifactKey: Guid(1cd36267fbc857143883fff5fac0cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_front.png using Guid(1cd36267fbc857143883fff5fac0cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f1d7e5b6d10e5ab60e921f13708b67') in 0.018014 seconds
+  Import took 0.023474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Mankeys_sushishop/Skybox/dome1_up.png
+  artifactKey: Guid(46a5364eb65102340bba81afccc125e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Skybox/dome1_up.png using Guid(46a5364eb65102340bba81afccc125e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937e62571a726e87161fce40e28a73d4') in 0.024527 seconds
+  Import took 0.029336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.366651 seconds.
+  path: Assets/Mankeys_sushishop/textures/Monkey_diff_eye_tex1.jpg
+  artifactKey: Guid(64efa95b7a14e7a4ebad7595318db6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/Monkey_diff_eye_tex1.jpg using Guid(64efa95b7a14e7a4ebad7595318db6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231320e870438106127d8a9a9b04fab4') in 0.022012 seconds
+  Import took 0.041562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Mankeys_sushishop/textures/UI_Logo_monkeys.png
+  artifactKey: Guid(9290a66c7e7edf245b9e101087d2692c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/UI_Logo_monkeys.png using Guid(9290a66c7e7edf245b9e101087d2692c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f84e7f7ec7fc3f5827ba27d8f720b3') in 0.068720 seconds
+  Import took 0.072955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Mankeys_sushishop/textures/UI_Controls.png
+  artifactKey: Guid(98843fb5a21c55a4cb191630056f273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/UI_Controls.png using Guid(98843fb5a21c55a4cb191630056f273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e68a8145601fa35a8f33e474765ba90') in 0.116899 seconds
+  Import took 0.121744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Mankeys_sushishop/textures/Monkey_diff_texture0.png
+  artifactKey: Guid(fb2be11e70654f844a3d59bde30435ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/Monkey_diff_texture0.png using Guid(fb2be11e70654f844a3d59bde30435ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33d688c12587e876964fd796a123f59') in 0.011210 seconds
+  Import took 0.015760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Mankeys_sushishop/textures/Monkey_diff_tex_asym.png
+  artifactKey: Guid(d4e4f148fcbcfd2438a0564b5f98d577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/Monkey_diff_tex_asym.png using Guid(d4e4f148fcbcfd2438a0564b5f98d577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fc4736e26e8e3fdef7192b09f18fac') in 0.013872 seconds
+  Import took 0.018254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Mankeys_sushishop/textures/UI_Controls2.png
+  artifactKey: Guid(c363c2cdc921d6240b20825a768ad305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/UI_Controls2.png using Guid(c363c2cdc921d6240b20825a768ad305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549584b5e8557aa8ce0f2bf56bd81ee6') in 0.052762 seconds
+  Import took 0.057280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.511756 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Prefabs
+  artifactKey: Guid(e09f07f9be24b2d4180a74a671348b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Characters/ThirdPersonCharacter/Prefabs using Guid(e09f07f9be24b2d4180a74a671348b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d9cc4b36065204c44fb7a15fd25894') in 0.003823 seconds
+  Import took 0.009510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.347082 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Utility
+  artifactKey: Guid(8fb26caddeedb41c9ae5c09a23c52942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Utility using Guid(8fb26caddeedb41c9ae5c09a23c52942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6eef85565bc457106210157b2781188') in 0.003767 seconds
+  Import took 0.008547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.660423 seconds.
+  path: Assets/Mankeys_sushishop/Masks/Mouth.mask
+  artifactKey: Guid(be92a0745074eed47af1aa7c02bad993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Masks/Mouth.mask using Guid(be92a0745074eed47af1aa7c02bad993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1186d3a3faf26fd4ef0b3e4610c846') in 0.029614 seconds
+  Import took 0.035959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Mankeys_sushishop/Masks/UpperBody_maskL.mask
+  artifactKey: Guid(54168101d15363c40a82af913ad1fe6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Masks/UpperBody_maskL.mask using Guid(54168101d15363c40a82af913ad1fe6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2949fe3798f10a4164ecb2d0501c41') in 0.011865 seconds
+  Import took 0.016766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Mankeys_sushishop/Masks/UpperBody_mask.mask
+  artifactKey: Guid(e1b7cf3cedfa8904bb4d8c55750ffae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Masks/UpperBody_mask.mask using Guid(e1b7cf3cedfa8904bb4d8c55750ffae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f8401418e99dd2906c052d7ddf4265') in 0.013773 seconds
+  Import took 0.018774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Mankeys_sushishop/Masks/UpperBody_maskR.mask
+  artifactKey: Guid(1ab159143e8f67245a39e3d69b7e5ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Masks/UpperBody_maskR.mask using Guid(1ab159143e8f67245a39e3d69b7e5ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1924022eadfd43dd1aaf1976d91e2d5') in 0.017184 seconds
+  Import took 0.021849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.383516 seconds.
+  path: Assets/Mankeys_sushishop/FBX
+  artifactKey: Guid(1ad2b64e4913437428f75441bb26f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX using Guid(1ad2b64e4913437428f75441bb26f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8500255e734ff8c8b4cedf38fec7b517') in 0.003384 seconds
+  Import took 0.008884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.818193 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_crowch.FBX
+  artifactKey: Guid(0d0e63382acf9484cb65a36da63af2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_crowch.FBX using Guid(0d0e63382acf9484cb65a36da63af2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b610c80ea3457542866ab497c70e29') in 0.161862 seconds
+  Import took 0.179771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_jump.FBX
+  artifactKey: Guid(ef773c3b98ac2054d9af8131fb357820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_jump.FBX using Guid(ef773c3b98ac2054d9af8131fb357820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8107cbdc4c3722cd703b3efe63b15731') in 0.187748 seconds
+  Import took 0.192864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_walk.FBX
+  artifactKey: Guid(4ca0413af5e08104a9f7dafcf9b08c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_walk.FBX using Guid(4ca0413af5e08104a9f7dafcf9b08c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b3b20d9494426f492673b3784193e5') in 0.138142 seconds
+  Import took 0.143490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_roll.FBX
+  artifactKey: Guid(67ab4afcef9e9944c898bccc96733554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_roll.FBX using Guid(67ab4afcef9e9944c898bccc96733554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4be3d10b91a3c497bc1cd79ccc7acb') in 0.159947 seconds
+  Import took 0.164983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_run.FBX
+  artifactKey: Guid(81224e798f8b12243bbec3d4da08dc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/FBX_animations/animation_static/Static_run.FBX using Guid(81224e798f8b12243bbec3d4da08dc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f42e78c7d0e5312b9e61475115cf200') in 0.132352 seconds
+  Import took 0.137604 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.465 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2341 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.6 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2930.
+Total: 4.475900 ms (FindLiveObjects: 0.357100 ms CreateObjectMapping: 0.087100 ms MarkObjects: 2.383000 ms  DeleteObjects: 1.647100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.277 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.6 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 5.365300 ms (FindLiveObjects: 0.418200 ms CreateObjectMapping: 0.079000 ms MarkObjects: 2.856700 ms  DeleteObjects: 2.009600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.240 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.5 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2934.
+Total: 4.666300 ms (FindLiveObjects: 0.344600 ms CreateObjectMapping: 0.077000 ms MarkObjects: 2.456500 ms  DeleteObjects: 1.786800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.695 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2389 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.0 MB.
+System memory in use after: 130.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2985.
+Total: 5.196400 ms (FindLiveObjects: 0.349800 ms CreateObjectMapping: 0.077200 ms MarkObjects: 2.479700 ms  DeleteObjects: 2.288400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1195.807226 seconds.
+  path: Assets/Mankeys_sushishop/textures/UI_Controls.png
+  artifactKey: Guid(98843fb5a21c55a4cb191630056f273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/UI_Controls.png using Guid(98843fb5a21c55a4cb191630056f273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38235d23b7e96825b262f3ca0c48971b') in 0.117287 seconds
+  Import took 0.142128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Mankeys_sushishop/textures/UI_Logo_monkeys.png
+  artifactKey: Guid(9290a66c7e7edf245b9e101087d2692c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/UI_Logo_monkeys.png using Guid(9290a66c7e7edf245b9e101087d2692c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45afbe04eb9997fb5ae5243511712f6d') in 0.016885 seconds
+  Import took 0.021800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Mankeys_sushishop/textures/UI_Controls2.png
+  artifactKey: Guid(c363c2cdc921d6240b20825a768ad305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/textures/UI_Controls2.png using Guid(c363c2cdc921d6240b20825a768ad305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336220954f6db0da1e623c882e971bb6') in 0.018177 seconds
+  Import took 0.023231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.296059 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs
+  artifactKey: Guid(89a534d869bfccd49bebf7cb6fb244b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs using Guid(89a534d869bfccd49bebf7cb6fb244b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e327877d00bc8c0bce3935edefcf77f') in 0.003257 seconds
+  Import took 0.008978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006739 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs
+  artifactKey: Guid(89a534d869bfccd49bebf7cb6fb244b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs using Guid(89a534d869bfccd49bebf7cb6fb244b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e327877d00bc8c0bce3935edefcf77f') in 0.003217 seconds
+  Import took 0.007772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.781411 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs
+  artifactKey: Guid(a62942d9af3f36d448094c6ed1f214dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs using Guid(a62942d9af3f36d448094c6ed1f214dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9cb362d2f594b700821eb1c7005199') in 0.003579 seconds
+  Import took 0.009557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs
+  artifactKey: Guid(a62942d9af3f36d448094c6ed1f214dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs using Guid(a62942d9af3f36d448094c6ed1f214dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9cb362d2f594b700821eb1c7005199') in 0.003135 seconds
+  Import took 0.007644 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.530 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2380 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.7 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 2981.
+Total: 5.939500 ms (FindLiveObjects: 0.370300 ms CreateObjectMapping: 0.085300 ms MarkObjects: 2.702300 ms  DeleteObjects: 2.778500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.517048 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Coconut_A.prefab
+  artifactKey: Guid(653118c2191c241438e8f0494b2438c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Coconut_A.prefab using Guid(653118c2191c241438e8f0494b2438c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5793601ba56d0942f438579dc2a83b0') in 0.075720 seconds
+  Import took 0.081876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Small_target.prefab
+  artifactKey: Guid(0fb30abf922c6e645942b55f72131a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Small_target.prefab using Guid(0fb30abf922c6e645942b55f72131a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35cbe99d41a02903b3b6b112b4bf6f93') in 0.011619 seconds
+  Import took 0.016146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Mono_throw_coconut1(generic).prefab
+  artifactKey: Guid(f7a2f54d4b616cf408ada4736cf15aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Mono_throw_coconut1(generic).prefab using Guid(f7a2f54d4b616cf408ada4736cf15aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65cdbfd9f10409fe13052641c1877832') in 0.180281 seconds
+  Import took 0.187719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce906177aaa416037c45ff6e730d239') in 0.144304 seconds
+  Import took 0.153039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.206057 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3cd14fdc6cc65853960989cb087920') in 0.131337 seconds
+  Import took 0.141797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.239956 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50a0615b34205a56dc1a5e4e3ed58ba') in 0.123889 seconds
+  Import took 0.151027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.216878 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f061c754c2ca32f571f02320d666ee6') in 0.134219 seconds
+  Import took 0.142343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.834364 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c333376d7da151311f6377da6004cf') in 0.135132 seconds
+  Import took 0.143481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.738617 seconds.
+  path: Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab
+  artifactKey: Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mankeys_sushishop/Prefabs/Monkey_InGame.prefab using Guid(2fadabbe61361554c9afaf0d89ed0584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe2648840d09c40a9cb232c2a65fe93') in 0.152929 seconds
+  Import took 0.161138 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.227 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 19ba41d7c0026c3459d37c2fe90c55a0 -> 00000000000000000000000000000000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2339 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 129.3 MB.
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 2947.
+Total: 4.711700 ms (FindLiveObjects: 0.405100 ms CreateObjectMapping: 0.088600 ms MarkObjects: 2.424700 ms  DeleteObjects: 1.791300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.563838 seconds.
+  path: Assets/Scenes/PoC Scene.unity
+  artifactKey: Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PoC Scene.unity using Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e16e9cd26297c096d7c8f0ce4d2fa16') in 0.018779 seconds
+  Import took 0.024020 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
