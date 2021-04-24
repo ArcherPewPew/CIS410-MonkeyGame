@@ -25,8 +25,8 @@ RenderSettings:
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 0
-  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubtractiveShadowColor: {r: 1, g: 1, b: 1, a: 1}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 39d27e80110a983468075fd1868610d7, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_IndirectSpecularColor: {r: 0.17646246, g: 0.2499974, b: 0.2715517, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -249,7 +249,23 @@ PrefabInstance:
     - target: {fileID: 95972331167537554, guid: 2fadabbe61361554c9afaf0d89ed0584, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: e2cf68ff4b1ffda45a77f7307dd789b9, type: 2}
+      objectReference: {fileID: 9100000, guid: 4797a78e8d865854e8f42f20cb0f8f66, type: 2}
+    - target: {fileID: 114171915421039910, guid: 2fadabbe61361554c9afaf0d89ed0584, type: 3}
+      propertyPath: m_JumpPower
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114171915421039910, guid: 2fadabbe61361554c9afaf0d89ed0584, type: 3}
+      propertyPath: m_GravityMultiplier
+      value: 1.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 114171915421039910, guid: 2fadabbe61361554c9afaf0d89ed0584, type: 3}
+      propertyPath: m_MoveSpeedMultiplier
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114276512008836108, guid: 2fadabbe61361554c9afaf0d89ed0584, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 136192386255313972, guid: 2fadabbe61361554c9afaf0d89ed0584, type: 3}
       propertyPath: m_Height
       value: 1.92
