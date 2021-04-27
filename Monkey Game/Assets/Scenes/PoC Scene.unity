@@ -422,13 +422,13 @@ MonoBehaviour:
   polygonalDrawDistance: 0
   vertexInaccuracy: 100
   polygonInaccuracy: 3
-  colorDepth: 4
+  colorDepth: 5
   scanlines: 0
   scanlineIntensity: 5
   ditherTexture: {fileID: 0}
   dithering: 1
   ditherThreshold: 1
-  ditherIntensity: 12
+  ditherIntensity: 1
   maxDarkness: 20
   subtractFade: 0
   favorRed: 1
