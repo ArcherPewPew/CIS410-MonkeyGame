@@ -83,7 +83,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         //Player move over fruits, then trigger the event to disable the correspond fruit
         //This block of code is based on the roll a ball tutorial
         //Maybe something wrong with the collider
-        private void onTriggerEnter(Collider other)
+        private void OnTriggerEnter(Collider other)
         {
             if (other.gameObject.CompareTag("fruit"))
             {
