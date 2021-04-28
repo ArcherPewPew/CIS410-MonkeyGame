@@ -12,7 +12,8 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         private Vector3 m_CamForward;             // The current forward direction of the camera
         private Vector3 m_Move;
         private bool m_Jump;                      // the world-relative desired move direction, calculated from the camForward and user input.
-        private int counter;
+        public GameObject winTextObject;
+        public int counter;
         
         private void Start()
         {
@@ -30,6 +31,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
             // get the third person character ( this should never be null due to require component )
             m_Character = GetComponent<ThirdPersonCharacter>();
+            winTextObject.SetActive(false);
         }
 
 
@@ -42,9 +44,9 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
             //End Game
             //Keep checking the number of fruits that user collected, game ends and quit immediately as long as user collectd all fruits
-            if (counter == 5)
+            if (counter == 7)
             {
-                Application.Quit();
+                winTextObject.SetActive(true);
             }
         }
 
