@@ -12,7 +12,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         private Vector3 m_CamForward;             // The current forward direction of the camera
         private Vector3 m_Move;
         private bool m_Jump;                      // the world-relative desired move direction, calculated from the camForward and user input.
-
+        private int counter;
         
         private void Start()
         {
@@ -38,6 +38,13 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             if (!m_Jump)
             {
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
+            }
+
+            //End Game
+            //Keep checking the number of fruits that user collected, game ends and quit immediately as long as user collectd all fruits
+            if (counter == 5)
+            {
+                Application.Quit();
             }
         }
 
@@ -70,6 +77,21 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             // pass all parameters to the character control script
             m_Character.Move(m_Move, crouch, m_Jump);
             m_Jump = false;
+        }
+
+
+        //Player move over fruits, then trigger the event to disable the correspond fruit
+        //This block of code is based on the roll a ball tutorial
+        //Maybe something wrong with the collider
+        private void onTriggerEnter(Collider other)
+        {
+            if (other.gameObject.CompareTag("fruit"))
+            {
+                //Display a debug message on console
+                Debug.Log("Player has triggered the fruit");
+                other.gameObject.SetActive(false);
+                counter++; //Increment the counter when the user picked up a fruit.
+            }
         }
     }
 }
