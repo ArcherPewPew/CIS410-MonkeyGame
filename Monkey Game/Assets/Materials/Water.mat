@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Water
   m_Shader: {fileID: 4800000, guid: 94cb0d6305cd4a743b1d2ec684e277de, type: 3}
-  m_ShaderKeywords: DIFF_VERTEX SPEC_PHONG TRANSPARENT _ALPHABLEND_ON _DIFFMODEL_VERTEX
+  m_ShaderKeywords: DIFF_VERTEX SPEC_GOURAUD TRANSPARENT _ALPHABLEND_ON _DIFFMODEL_VERTEX
     _DRAWDIST_ON _EMISSION _SPECMODEL_GOURAUD
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
@@ -99,7 +99,7 @@ Material:
     - _RenderMode: 1
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
-    - _SpecModel: 1
+    - _SpecModel: 0
     - _Specular: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 5
@@ -108,7 +108,7 @@ Material:
     - _VertexInaccuracy: -1
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 0.3529412}
+    - _Color: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 0.2627451}
     - _Emission: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
