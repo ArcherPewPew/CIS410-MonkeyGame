@@ -15,11 +15,11 @@ D:/Games/Unity/Unity Hub/Projects/Monkey Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50201
+61153
 Successfully changed project path to: D:/Games/Unity/Unity Hub/Projects/Monkey Game
 D:/Games/Unity/Unity Hub/Projects/Monkey Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 53.55 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 67.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
@@ -36,675 +36,656 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002336 seconds.
+Registered in 0.002980 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 52.80 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 65.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.270 seconds
+- Completed reload, in  1.509 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001431 seconds.
+Registered in 0.001817 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 53.44 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 60.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.053 seconds
+- Completed reload, in  1.241 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2583 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 129.7 MB.
-System memory in use after: 129.6 MB.
+Unloading 2585 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.0 MB.
+System memory in use after: 130.9 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3046.
-Total: 2.866600 ms (FindLiveObjects: 0.384600 ms CreateObjectMapping: 0.077400 ms MarkObjects: 2.079300 ms  DeleteObjects: 0.323700 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Materials/Grass.mat
-  artifactKey: Guid(a1242d1f43732944293bf0b3ec0bc17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Grass.mat using Guid(a1242d1f43732944293bf0b3ec0bc17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3602c439cfceee6c1c0d892b80c09fc3') in 0.110045 seconds
-  Import took 0.114401 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3050.
+Total: 3.209600 ms (FindLiveObjects: 0.481000 ms CreateObjectMapping: 0.109500 ms MarkObjects: 2.183500 ms  DeleteObjects: 0.433300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 50.611802 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head.FBX
-  artifactKey: Guid(18e3f9926870c7b4abae3ca77d6dd9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head.FBX using Guid(18e3f9926870c7b4abae3ca77d6dd9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43574cfa978ac2542937648a500400e3') in 0.811080 seconds
-  Import took 0.816222 seconds .
+  path: Assets/CrunchedTextures/esp_tile_color3_crunched.png
+  artifactKey: Guid(bab75a8d9c8f7814babef62f67f1512d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/esp_tile_color3_crunched.png using Guid(bab75a8d9c8f7814babef62f67f1512d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0a7fb05bfb44c2e77c098dadbb9345') in 0.137745 seconds
+  Import took 0.175823 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head_LOD_1.fbx
-  artifactKey: Guid(ee7bff2b43a2f0f419d73b30a3d14461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head_LOD_1.fbx using Guid(ee7bff2b43a2f0f419d73b30a3d14461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e765d5346e79e9049bbe2a11d72c90c') in 0.080857 seconds
-  Import took 0.085899 seconds .
+  Time since last request: 21.262010 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe1e02b069bed39c508f869cad12467') in 0.009331 seconds
+  Import took 0.013955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.985077 seconds.
+  path: Assets/Scenes/PoC Scene.unity
+  artifactKey: Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PoC Scene.unity using Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab05057be1af46748c3daa55387dc3d4') in 0.012296 seconds
+  Import took 0.046780 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001159 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.061 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.1 MB.
+System memory in use after: 125.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3055.
+Total: 4.231800 ms (FindLiveObjects: 0.813300 ms CreateObjectMapping: 0.427400 ms MarkObjects: 2.687500 ms  DeleteObjects: 0.301200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1725.132253 seconds.
+  path: Assets/Materials/GreenGlass.mat
+  artifactKey: Guid(6dc0bcdacc8295847a5b685ee27947e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GreenGlass.mat using Guid(6dc0bcdacc8295847a5b685ee27947e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48bdb9ce80d6e6c8648b65698a084b9') in 0.123884 seconds
+  Import took 0.155651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.484497 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_diving_board.png
+  artifactKey: Guid(6e4a61d5928a2d24eb741c44a14ba449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_diving_board.png using Guid(6e4a61d5928a2d24eb741c44a14ba449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c9936860b7ca84106e411856283147') in 0.029878 seconds
+  Import took 0.059267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_Light_01.png
+  artifactKey: Guid(19387c120a5a0e641afbc72a975e7acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_Light_01.png using Guid(19387c120a5a0e641afbc72a975e7acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110fc4a6b84b89bf3d88ee6ba63f0599') in 0.016463 seconds
+  Import took 0.101159 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000259 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head_LOD_3.fbx
-  artifactKey: Guid(5a13152c0dd7c0843ae97305fd1c717b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head_LOD_3.fbx using Guid(5a13152c0dd7c0843ae97305fd1c717b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985674b2c02dd256f659787ed0d3ebf4') in 0.059845 seconds
-  Import took 0.064959 seconds .
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_diving_board.png
+  artifactKey: Guid(6e4a61d5928a2d24eb741c44a14ba449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_diving_board.png using Guid(6e4a61d5928a2d24eb741c44a14ba449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c9936860b7ca84106e411856283147') in 0.016248 seconds
+  Import took 0.020651 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1_LOD_3.fbx
-  artifactKey: Guid(93266d35738522e42b3f55f0f76fd03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1_LOD_3.fbx using Guid(93266d35738522e42b3f55f0f76fd03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5062ed685434bd327bfce3a643da7c') in 0.068837 seconds
-  Import took 0.074011 seconds .
+  Time since last request: 0.876038 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_stone_trim_r.png
+  artifactKey: Guid(13d77e96d994e414a996ac545b3e7d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_stone_trim_r.png using Guid(13d77e96d994e414a996ac545b3e7d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8ce2c7bf1ab6463d5c8d8f6bf62d73') in 0.014610 seconds
+  Import took 0.038674 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis_LOD_3.fbx
-  artifactKey: Guid(2fc84fa3f41e0bd4781435f6b28fd192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis_LOD_3.fbx using Guid(2fc84fa3f41e0bd4781435f6b28fd192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51637f1f702c9384e83473cb50ce3d21') in 0.075261 seconds
-  Import took 0.080546 seconds .
+  Time since last request: 0.000260 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color1.png
+  artifactKey: Guid(a6a3d568f53220243bea6647670a43e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color1.png using Guid(a6a3d568f53220243bea6647670a43e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03491f272188d4bd88ac6868a343eafa') in 0.014976 seconds
+  Import took 0.032224 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso_LOD_3.fbx
-  artifactKey: Guid(74516762dd605644fb981a0653c1738b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso_LOD_3.fbx using Guid(74516762dd605644fb981a0653c1738b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b861e847056676ac1e893918c905dba') in 0.069526 seconds
-  Import took 0.074693 seconds .
+  Time since last request: 0.000453 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_stone_trim_r.png
+  artifactKey: Guid(13d77e96d994e414a996ac545b3e7d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_stone_trim_r.png using Guid(13d77e96d994e414a996ac545b3e7d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8ce2c7bf1ab6463d5c8d8f6bf62d73') in 0.014265 seconds
+  Import took 0.018832 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2_LOD_2.fbx
-  artifactKey: Guid(4cc6eaccb3781054bb13e10ed628268d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2_LOD_2.fbx using Guid(4cc6eaccb3781054bb13e10ed628268d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6774951ac7743d309579c0cb0db247') in 0.055919 seconds
-  Import took 0.061033 seconds .
+  Time since last request: 0.000238 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color1.png
+  artifactKey: Guid(a6a3d568f53220243bea6647670a43e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color1.png using Guid(a6a3d568f53220243bea6647670a43e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03491f272188d4bd88ac6868a343eafa') in 0.014312 seconds
+  Import took 0.020375 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head_LOD_2.fbx
-  artifactKey: Guid(3c9b4baeee1c5804a80b0b7e3020749a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_head_LOD_2.fbx using Guid(3c9b4baeee1c5804a80b0b7e3020749a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6d6ef41175286977b7044f019b6561') in 0.060320 seconds
-  Import took 0.066221 seconds .
+  Time since last request: 0.196396 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color2.png
+  artifactKey: Guid(7260a4fae2bbb3a4485112fe62553330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color2.png using Guid(7260a4fae2bbb3a4485112fe62553330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752b8c990299918325adcf8f56a17a2f') in 0.017340 seconds
+  Import took 0.030427 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2_LOD_1.fbx
-  artifactKey: Guid(9b75cdf5e75761c49a6cc252396caf6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2_LOD_1.fbx using Guid(9b75cdf5e75761c49a6cc252396caf6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3c07e1f798d253bdbce4f816cee1eb') in 0.070836 seconds
-  Import took 0.092565 seconds .
+  Time since last request: 0.000232 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color3.png
+  artifactKey: Guid(4cc4fcd7109ad9348ba9c671caf0961b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color3.png using Guid(4cc4fcd7109ad9348ba9c671caf0961b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb44526adfa1dc211235a166f228d927') in 0.014063 seconds
+  Import took 0.066281 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2_LOD_3.fbx
-  artifactKey: Guid(e5f48bf39ea8c4e45a6bf2c5786fdbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2_LOD_3.fbx using Guid(e5f48bf39ea8c4e45a6bf2c5786fdbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0809d1b97434a3c4fdcb07a15f28a93a') in 0.061998 seconds
-  Import took 0.067393 seconds .
+  Time since last request: 0.005154 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color3.png
+  artifactKey: Guid(4cc4fcd7109ad9348ba9c671caf0961b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_tile_color3.png using Guid(4cc4fcd7109ad9348ba9c671caf0961b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb44526adfa1dc211235a166f228d927') in 0.011654 seconds
+  Import took 0.016976 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis_LOD_2.fbx
-  artifactKey: Guid(c84b37847f73ae04daf772c1e2e317a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis_LOD_2.fbx using Guid(c84b37847f73ae04daf772c1e2e317a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa6a3d19367b246db6a883440b15dd0') in 0.063321 seconds
-  Import took 0.068403 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis_LOD_1.fbx
-  artifactKey: Guid(e9fe623f52f97ca408b8f6c523a44795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis_LOD_1.fbx using Guid(e9fe623f52f97ca408b8f6c523a44795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c58b66da97672b7fbfdcafeaae144fe') in 0.057462 seconds
-  Import took 0.062316 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1_LOD_1.fbx
-  artifactKey: Guid(72852ab0b59592d45a7dddecb9be931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1_LOD_1.fbx using Guid(72852ab0b59592d45a7dddecb9be931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3e776a56bf319ba48a8cd3961fbd99') in 0.081626 seconds
-  Import took 0.087262 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso.FBX
-  artifactKey: Guid(5da66fff7689cab4fa930689fa967f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso.FBX using Guid(5da66fff7689cab4fa930689fa967f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6893c6f0db3eeda437e26531b7b9df0a') in 0.081955 seconds
-  Import took 0.087108 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso_LOD_1.fbx
-  artifactKey: Guid(7b680af9c5ba56a4691ddf57eccef2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso_LOD_1.fbx using Guid(7b680af9c5ba56a4691ddf57eccef2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db90c5fbdf9bd0a0b206f0a1d886a49') in 0.073564 seconds
-  Import took 0.078789 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso_LOD_2.fbx
-  artifactKey: Guid(f2f307f628482b743875b5fb8ee5c726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_torso_LOD_2.fbx using Guid(f2f307f628482b743875b5fb8ee5c726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e19a38d2a3f15f831c3ab4f7f9cbc3') in 0.059666 seconds
-  Import took 0.064962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2.FBX
-  artifactKey: Guid(523aac64b789df245a253294959f9dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_2.FBX using Guid(523aac64b789df245a253294959f9dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0b7f9f293a93e89fe25316424f509b') in 0.067282 seconds
-  Import took 0.072415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1.FBX
-  artifactKey: Guid(0f7a8eb1f41cfd245b56bea261288816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1.FBX using Guid(0f7a8eb1f41cfd245b56bea261288816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce17dfca37f21c5d10f96f33cce29d4d') in 0.065174 seconds
-  Import took 0.070458 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis.FBX
-  artifactKey: Guid(fe2c1beb1d64ce54fa9850976f074038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_pelvis.FBX using Guid(fe2c1beb1d64ce54fa9850976f074038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f822c4ed04a9ac40ebf94181fbf61711') in 0.062551 seconds
-  Import took 0.067920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1_LOD_2.fbx
-  artifactKey: Guid(7a6d24814b5cee4469d519f316bb26d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_leg_1_LOD_2.fbx using Guid(7a6d24814b5cee4469d519f316bb26d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ec51bd7813c8c69e0b7f59db5d8a342') in 0.071014 seconds
-  Import took 0.075980 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.283002 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1_LOD_3.fbx
-  artifactKey: Guid(4fa253cf5023a2f49a2f762425be31b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1_LOD_3.fbx using Guid(4fa253cf5023a2f49a2f762425be31b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3993edb75f36291c93f2dc8e78611b2') in 0.079000 seconds
-  Import took 0.084154 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2_LOD_1.fbx
-  artifactKey: Guid(ffe0018a17e93f042a2aa3a81afc1f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2_LOD_1.fbx using Guid(ffe0018a17e93f042a2aa3a81afc1f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2386732d4f55bfcc37094bd88652ff7d') in 0.070164 seconds
-  Import took 0.075223 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1_LOD_1.fbx
-  artifactKey: Guid(d83f8bac311619846815745df0af9e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1_LOD_1.fbx using Guid(d83f8bac311619846815745df0af9e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3352f630274fa1a513bb6e55ce37f6bf') in 0.058319 seconds
-  Import took 0.063355 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand_LOD_2.fbx
-  artifactKey: Guid(93abb11c8659e4d4b921fca7671d8619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand_LOD_2.fbx using Guid(93abb11c8659e4d4b921fca7671d8619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9762d48ec2606073a75eed88587c0e') in 0.059511 seconds
-  Import took 0.076171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2_LOD_3.fbx
-  artifactKey: Guid(ffcd88e29d155464897aff366bd872fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2_LOD_3.fbx using Guid(ffcd88e29d155464897aff366bd872fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bfea99881de08b8bc8f13366db6ec2') in 0.064434 seconds
-  Import took 0.069275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm_LOD_2.fbx
-  artifactKey: Guid(8b0de967bce12ba4c9ffd309be7c2597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm_LOD_2.fbx using Guid(8b0de967bce12ba4c9ffd309be7c2597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a842520046af5686ade9de423eb1f99') in 0.056086 seconds
-  Import took 0.061452 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot.FBX
-  artifactKey: Guid(665cb9b10df8ac8489acd7c5d86a4a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot.FBX using Guid(665cb9b10df8ac8489acd7c5d86a4a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354e69386943f14a9cb49bce54e875b3') in 0.067089 seconds
-  Import took 0.072091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot_LOD_3.fbx
-  artifactKey: Guid(93410dd8be0fa4942aaad063f7ba6665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot_LOD_3.fbx using Guid(93410dd8be0fa4942aaad063f7ba6665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9392b14360429615e838fe015b45f66a') in 0.067910 seconds
-  Import took 0.073263 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm.FBX
-  artifactKey: Guid(1b2f852ac5da67241892166349311bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm.FBX using Guid(1b2f852ac5da67241892166349311bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c9d15ec37cf8d9e25c414c6594607e') in 0.060801 seconds
-  Import took 0.065778 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2_LOD_1.fbx
-  artifactKey: Guid(eebbf0de51f69ac43a99fbeb32d0cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2_LOD_1.fbx using Guid(eebbf0de51f69ac43a99fbeb32d0cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12dbd31266f5dcf21d4a0c5212db7aa') in 0.068936 seconds
-  Import took 0.073818 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis_LOD_1.fbx
-  artifactKey: Guid(d7033a5ece4b8d145be4f12ad3261d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis_LOD_1.fbx using Guid(d7033a5ece4b8d145be4f12ad3261d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c95770828d719bb527399fb04563d0') in 0.091097 seconds
-  Import took 0.096129 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot_LOD_2.fbx
-  artifactKey: Guid(31e3b1d1359024140b9b05fa5f110f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot_LOD_2.fbx using Guid(31e3b1d1359024140b9b05fa5f110f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e2f7f49fa72cd09f2fbebda9702b7a') in 0.062453 seconds
-  Import took 0.067470 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand_LOD_3.fbx
-  artifactKey: Guid(200698c9f95449a4687e8b1e2fc3676f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand_LOD_3.fbx using Guid(200698c9f95449a4687e8b1e2fc3676f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86488e9fc59e54c43d6951c8231de59') in 0.070004 seconds
-  Import took 0.074852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand_LOD_2.fbx
-  artifactKey: Guid(590f6260200a7a342981cd236d9f5a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand_LOD_2.fbx using Guid(590f6260200a7a342981cd236d9f5a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9734b3ef62dc2b4dbc8d74eb23d217be') in 0.069889 seconds
-  Import took 0.074681 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2.FBX
-  artifactKey: Guid(60b0efa8e39e4404da087573f7cf8f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2.FBX using Guid(60b0efa8e39e4404da087573f7cf8f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38eeb0b2245f7581bb26554d5c6e44ae') in 0.075248 seconds
-  Import took 0.080196 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1_LOD_3.fbx
-  artifactKey: Guid(8d174a1983d62bd4ca73cbde5886e7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1_LOD_3.fbx using Guid(8d174a1983d62bd4ca73cbde5886e7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ab49897bf97543dd3a9639844ff189') in 0.071704 seconds
-  Import took 0.077537 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2_LOD_3.fbx
-  artifactKey: Guid(390a26834e04fd642b9e1e608af6044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2_LOD_3.fbx using Guid(390a26834e04fd642b9e1e608af6044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d233332989bec696d222fd9a268564') in 0.084809 seconds
-  Import took 0.090646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand_LOD_1.fbx
-  artifactKey: Guid(0fa146f4a9d851d4aa520f1b3ab4c981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand_LOD_1.fbx using Guid(0fa146f4a9d851d4aa520f1b3ab4c981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9edbdd11e1b50554a4eb5807ae4bed') in 0.071595 seconds
-  Import took 0.076643 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm_LOD_3.fbx
-  artifactKey: Guid(b42ba06e0007336499d4c809f37f8b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm_LOD_3.fbx using Guid(b42ba06e0007336499d4c809f37f8b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32393bde6340d2aa62480c5d4ebdff7') in 0.072138 seconds
-  Import took 0.077134 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand_LOD_3.fbx
-  artifactKey: Guid(aec36de164ff31c49b292ce1e9ab1bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand_LOD_3.fbx using Guid(aec36de164ff31c49b292ce1e9ab1bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc78059580cb653c488eb2551c473d3a') in 0.059304 seconds
-  Import took 0.064216 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm_LOD_1.fbx
-  artifactKey: Guid(382621b10dc5b3f4292e7e8b1d7666a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_arm_LOD_1.fbx using Guid(382621b10dc5b3f4292e7e8b1d7666a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5147eb7c082981160c9933a5cffdbe') in 0.068232 seconds
-  Import took 0.073585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2_LOD_2.fbx
-  artifactKey: Guid(d9fe7881fcc29f245a88542b920b6400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_2_LOD_2.fbx using Guid(d9fe7881fcc29f245a88542b920b6400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205067acef37a3bc8bcd8794479b1b00') in 0.089927 seconds
-  Import took 0.095049 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2_LOD_2.fbx
-  artifactKey: Guid(9142b57d8be5bf94ab03e47d3503d493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2_LOD_2.fbx using Guid(9142b57d8be5bf94ab03e47d3503d493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0665d0f8bc8caa80bd5f929086857aff') in 0.087233 seconds
-  Import took 0.092517 seconds .
+  Time since last request: 1.776045 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Water/Textures/SimpleFoam.png
+  artifactKey: Guid(36dd0b22da8874ed38075789055ca664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Water/Textures/SimpleFoam.png using Guid(36dd0b22da8874ed38075789055ca664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0307a1748f3891f1c54d930a237d3ff') in 0.141733 seconds
+  Import took 0.176948 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000228 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1.FBX
-  artifactKey: Guid(8e01484e0bdb19e419e0f32ff32d4200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1.FBX using Guid(8e01484e0bdb19e419e0f32ff32d4200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812c269597c53d5ae6e286d237c17529') in 0.068539 seconds
-  Import took 0.073846 seconds .
+  path: Assets/Imported Assets/Exterior_swimming_pool/Water/Textures/SmallWaves.png
+  artifactKey: Guid(fb6566c21f717904f83743a5a76dd0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Water/Textures/SmallWaves.png using Guid(fb6566c21f717904f83743a5a76dd0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2daee442065c32038581bc3763f82e07') in 0.070444 seconds
+  Import took 0.097921 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis_LOD_2.fbx
-  artifactKey: Guid(65e4574898c93b94cbae307cecbca12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis_LOD_2.fbx using Guid(65e4574898c93b94cbae307cecbca12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4133ab3e0f8fc0938bef16a04da28ee1') in 0.063031 seconds
-  Import took 0.068008 seconds .
+  Time since last request: 234.373567 seconds.
+  path: Assets/Materials/Metal.mat
+  artifactKey: Guid(91e36e29448136242a0159ccaf2c8fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Metal.mat using Guid(91e36e29448136242a0159ccaf2c8fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3a577f8cb5a164fbd5ce6cb35f560c') in 0.018054 seconds
+  Import took 0.039823 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand.FBX
-  artifactKey: Guid(443d2ba4ff202574b90592227e813397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand.FBX using Guid(443d2ba4ff202574b90592227e813397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72dc724dc17e1214c2ca070ab1da24fd') in 0.061310 seconds
-  Import took 0.066224 seconds .
+  Time since last request: 85.947230 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_metal_bare.png
+  artifactKey: Guid(d8da83339dbbab94ba5bf7f53eaef0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_metal_bare.png using Guid(d8da83339dbbab94ba5bf7f53eaef0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5913cd334d016ae352897be6a51852') in 0.013967 seconds
+  Import took 0.018495 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand_LOD_1.fbx
-  artifactKey: Guid(a4e8830b67a0ca9439f53c0a5fb43463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_hand_LOD_1.fbx using Guid(a4e8830b67a0ca9439f53c0a5fb43463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7741063973daa7704c9a8be0459b37a1') in 0.079363 seconds
-  Import took 0.084267 seconds .
+  Time since last request: 0.023618 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_metal_bare.png
+  artifactKey: Guid(d8da83339dbbab94ba5bf7f53eaef0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Textures/esp_metal_bare.png using Guid(d8da83339dbbab94ba5bf7f53eaef0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5913cd334d016ae352897be6a51852') in 0.011877 seconds
+  Import took 0.018024 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1.FBX
-  artifactKey: Guid(8b60b37545814b146a4d88f59e3b9d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1.FBX using Guid(8b60b37545814b146a4d88f59e3b9d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d622a8175c2417901d2ecfcb7b66a13') in 0.074425 seconds
-  Import took 0.079390 seconds .
+  Time since last request: 270.621303 seconds.
+  path: Assets/Imported Assets/Mankeys_sushishop/textures
+  artifactKey: Guid(d6dde1252dcf0454f948560d0dcfb61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Mankeys_sushishop/textures using Guid(d6dde1252dcf0454f948560d0dcfb61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7a316d2aba9e1728993ebf44281cff') in 0.008279 seconds
+  Import took 0.037743 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3102.
+Total: 3.168600 ms (FindLiveObjects: 0.566300 ms CreateObjectMapping: 0.188900 ms MarkObjects: 2.130900 ms  DeleteObjects: 0.280900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1_LOD_2.fbx
-  artifactKey: Guid(83a080c5266a1d449a1e19fd72569e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1_LOD_2.fbx using Guid(83a080c5266a1d449a1e19fd72569e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd531ffa33c7f2f1ab975b95f8ae358f2') in 0.063001 seconds
-  Import took 0.068244 seconds .
+  Time since last request: 103.483289 seconds.
+  path: Assets/CrunchedTextures/Controls.png
+  artifactKey: Guid(6567c5ecca737c64ebc5de7d8e290dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls.png using Guid(6567c5ecca737c64ebc5de7d8e290dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28727a8c2953603329308c341e848689') in 0.053440 seconds
+  Import took 0.082326 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1_LOD_2.fbx
-  artifactKey: Guid(eaf9f5b5427059c478e2b4dad7e698d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_1_LOD_2.fbx using Guid(eaf9f5b5427059c478e2b4dad7e698d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f61517bd00b1f6b99e07358ae22a1a1') in 0.061945 seconds
-  Import took 0.067163 seconds .
+  Time since last request: 0.001224 seconds.
+  path: Assets/CrunchedTextures/Controls.png
+  artifactKey: Guid(6567c5ecca737c64ebc5de7d8e290dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls.png using Guid(6567c5ecca737c64ebc5de7d8e290dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28727a8c2953603329308c341e848689') in 0.008010 seconds
+  Import took 0.012334 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand.FBX
-  artifactKey: Guid(7cf7ab30e83399b408d1381b7e8cd305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_hand.FBX using Guid(7cf7ab30e83399b408d1381b7e8cd305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb4def42b48e4c540ed0f05c05cb0d1') in 0.061521 seconds
-  Import took 0.066442 seconds .
+  Time since last request: 19.070694 seconds.
+  path: Assets/CrunchedTextures/Controls.png
+  artifactKey: Guid(6567c5ecca737c64ebc5de7d8e290dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls.png using Guid(6567c5ecca737c64ebc5de7d8e290dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152bb17bee23a3a744619513ddc86409') in 0.010377 seconds
+  Import took 0.032954 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2.FBX
-  artifactKey: Guid(2b529857a3373d84f8610074e356c26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_leg_2.FBX using Guid(2b529857a3373d84f8610074e356c26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dce1bc71b226b994990b08d0bf0406') in 0.065311 seconds
-  Import took 0.070286 seconds .
+  Time since last request: 0.000293 seconds.
+  path: Assets/CrunchedTextures/esp_metal_bare_crunched.png
+  artifactKey: Guid(8bc380aa00cb0ce40b554d5773cffecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/esp_metal_bare_crunched.png using Guid(8bc380aa00cb0ce40b554d5773cffecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae1a584b6b17b6e681974edf047ebb7') in 0.071860 seconds
+  Import took 0.083150 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis_LOD_3.fbx
-  artifactKey: Guid(b3c2867eee5f8d24780573623e701bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis_LOD_3.fbx using Guid(b3c2867eee5f8d24780573623e701bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca337b21432b8b8b1c23c5be2ebf479') in 0.058863 seconds
-  Import took 0.063845 seconds .
+  Time since last request: 14.464636 seconds.
+  path: Assets/CrunchedTextures/Controls_crunched.png
+  artifactKey: Guid(1abbcb72ebd3ed244b1d1c24333b9afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls_crunched.png using Guid(1abbcb72ebd3ed244b1d1c24333b9afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0109ed94db3246599dbc911ddf10bf3') in 0.023972 seconds
+  Import took 0.033377 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1_LOD_1.fbx
-  artifactKey: Guid(14f0a769b50c4344c9bf75f59e8055b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_M_arm_1_LOD_1.fbx using Guid(14f0a769b50c4344c9bf75f59e8055b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637ac71560280ae1daf9214e0c6481f3') in 0.068710 seconds
-  Import took 0.081206 seconds .
+  Time since last request: 14.585344 seconds.
+  path: Assets/CrunchedTextures/Controls.jpg
+  artifactKey: Guid(d72050d26314fac4e84a8394bea434f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls.jpg using Guid(d72050d26314fac4e84a8394bea434f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed14e7bb99a7bfc214ddbdf7d970f238') in 0.013769 seconds
+  Import took 0.028972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.753323 seconds.
+  path: Assets/CrunchedTextures/Controls.jpg
+  artifactKey: Guid(d72050d26314fac4e84a8394bea434f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls.jpg using Guid(d72050d26314fac4e84a8394bea434f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e842a47bef9749e417a74a5dae2340') in 0.014067 seconds
+  Import took 0.038613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.575942 seconds.
+  path: Assets/CrunchedTextures/Controls.jpg
+  artifactKey: Guid(d72050d26314fac4e84a8394bea434f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrunchedTextures/Controls.jpg using Guid(d72050d26314fac4e84a8394bea434f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7973b136dd7f43e71ba971294a077bf') in 0.006317 seconds
+  Import took 0.020018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 656.942589 seconds.
+  path: Assets/Imported Assets/Horror Assets/materials/torn_body_parts.mat
+  artifactKey: Guid(bb64622223e5a554eb2844ce16e0fdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/materials/torn_body_parts.mat using Guid(bb64622223e5a554eb2844ce16e0fdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b3cbcd3416b0fab89142647366db56') in 0.518658 seconds
+  Import took 0.542493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Water/Materials/Water4Advanced.mat
+  artifactKey: Guid(a5f2339f242f6cc41a982ec55ea3c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Water/Materials/Water4Advanced.mat using Guid(a5f2339f242f6cc41a982ec55ea3c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2806942b19bfbd8bc01aee6e619c5718') in 0.047142 seconds
+  Import took 0.074252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Water/Materials/Water4Simple.mat
+  artifactKey: Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Water/Materials/Water4Simple.mat using Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1229f4e31ae9cf875e1b30fb79a00bb3') in 0.047968 seconds
+  Import took 0.075717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000970 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Water/Materials/Water4Simple.mat
+  artifactKey: Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Water/Materials/Water4Simple.mat using Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1229f4e31ae9cf875e1b30fb79a00bb3') in 0.011456 seconds
+  Import took 0.016769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.601577 seconds.
+  path: Assets/Imported Assets/Exterior_swimming_pool/Meshes/exterior_swimming_pool.fbx
+  artifactKey: Guid(462c2619e4d82cb4ba4a74d473f04b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Exterior_swimming_pool/Meshes/exterior_swimming_pool.fbx using Guid(462c2619e4d82cb4ba4a74d473f04b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eacf15df534a0c02c88de123dca3663d') in 2.314892 seconds
+  Import took 2.332070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1_LOD_1.fbx
+  artifactKey: Guid(7d3787d9899408543b3f8b04b39830f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1_LOD_1.fbx using Guid(7d3787d9899408543b3f8b04b39830f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ada717c70eb3429187f5fbfdb9e2dd4') in 0.124339 seconds
+  Import took 0.156488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2_LOD_1.fbx
+  artifactKey: Guid(5988415c24aaf6a468797200d5d4b992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2_LOD_1.fbx using Guid(5988415c24aaf6a468797200d5d4b992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5840f0005a88f20922c0ba8368fb2c') in 0.077401 seconds
+  Import took 0.103627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4_LOD_2.fbx
+  artifactKey: Guid(afbe592fdb00a6b4f8144c4e31a899c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4_LOD_2.fbx using Guid(afbe592fdb00a6b4f8144c4e31a899c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b897d8c599e19f354a695499095e4fab') in 0.077753 seconds
+  Import took 0.108358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5_LOD_1.fbx
+  artifactKey: Guid(52d1feed7c11ed1478a9a6d10bfd2860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5_LOD_1.fbx using Guid(52d1feed7c11ed1478a9a6d10bfd2860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8396d5f9882c337ddd481626e7b8bc05') in 0.089941 seconds
+  Import took 0.122009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out_LOD_3.fbx
+  artifactKey: Guid(ce9083c49fa327b49a5693cf9ad081d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out_LOD_3.fbx using Guid(ce9083c49fa327b49a5693cf9ad081d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf82c4949609f9140423fb04809016a') in 0.083820 seconds
+  Import took 0.090370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3_LOD_2.fbx
+  artifactKey: Guid(67afc02e70761984f86c4c633c51f68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3_LOD_2.fbx using Guid(67afc02e70761984f86c4c633c51f68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14eba81b0209b08e0ad93cfc0e3ec138') in 0.062798 seconds
+  Import took 0.069181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3.FBX
+  artifactKey: Guid(cd36e46c558a71843bd23d0b0e3d25c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3.FBX using Guid(cd36e46c558a71843bd23d0b0e3d25c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0164801023fc330815afb765eb4b00c8') in 0.146685 seconds
+  Import took 0.174793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out.FBX
+  artifactKey: Guid(55b0c76c1bf16f4439e6cc1e87ccb6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out.FBX using Guid(55b0c76c1bf16f4439e6cc1e87ccb6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433994a9acded91efae6ed18d8fa2cf3') in 0.082363 seconds
+  Import took 0.129624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out_LOD_1.fbx
+  artifactKey: Guid(deab7ac50f2e27c4fb2d11919491a264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out_LOD_1.fbx using Guid(deab7ac50f2e27c4fb2d11919491a264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5b04d048b6ec0bb59ba042f4762de9') in 0.084735 seconds
+  Import took 0.114919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out_LOD_2.fbx
+  artifactKey: Guid(23537b9437db7c8459f6da7e7f0665db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_out_LOD_2.fbx using Guid(23537b9437db7c8459f6da7e7f0665db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7faca5ee016f31fba4074c63bb32c334') in 0.121620 seconds
+  Import took 0.143127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5_LOD_2.fbx
+  artifactKey: Guid(cf05dd460d42041478dbf9a1059e5e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5_LOD_2.fbx using Guid(cf05dd460d42041478dbf9a1059e5e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679fbb997338c9354a99bf111c340796') in 0.121607 seconds
+  Import took 0.135241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_LOD_1.fbx
+  artifactKey: Guid(64b1d6876af53be4aa57a762c558c8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_LOD_1.fbx using Guid(64b1d6876af53be4aa57a762c558c8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a7caace0f866f5887570998dcd25a9') in 0.077536 seconds
+  Import took 0.084423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1_LOD_3.fbx
+  artifactKey: Guid(b19e34656ec3dd64da98764330772217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1_LOD_3.fbx using Guid(b19e34656ec3dd64da98764330772217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551c90b3ad15825c40ea37dd293d5343') in 0.090437 seconds
+  Import took 0.139430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces_LOD_1.fbx
+  artifactKey: Guid(9bedcf64c156e794088d87c042822bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces_LOD_1.fbx using Guid(9bedcf64c156e794088d87c042822bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d514a8fd9f9020b5404500c33b26b3e') in 0.086236 seconds
+  Import took 0.127606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4_LOD_1.fbx
+  artifactKey: Guid(e9775bb308a976b4ab3bf79d7ec53354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4_LOD_1.fbx using Guid(e9775bb308a976b4ab3bf79d7ec53354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025075a176789d880d975a2ab1b8cb2f') in 0.087276 seconds
+  Import took 0.094779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_LOD_3.fbx
+  artifactKey: Guid(f1814683813bc6d46ae95c8d2ad0b77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_LOD_3.fbx using Guid(f1814683813bc6d46ae95c8d2ad0b77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b1c5ca88e5d5a07a224db863215a01') in 0.113434 seconds
+  Import took 0.119714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_LOD_2.fbx
+  artifactKey: Guid(c813ead6a9081a14192f80c55f2ab01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains_LOD_2.fbx using Guid(c813ead6a9081a14192f80c55f2ab01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6b8f97dfdf345f8dce867366a2596e') in 0.091635 seconds
+  Import took 0.097763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3_LOD_3.fbx
+  artifactKey: Guid(101377daa0bf1f74a9bdc302f3d933c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3_LOD_3.fbx using Guid(101377daa0bf1f74a9bdc302f3d933c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02911d0c18e07ff6b578f61e2d112d11') in 0.096134 seconds
+  Import took 0.101845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces_LOD_2.fbx
+  artifactKey: Guid(4760cfefbc8162149a9eb5bc81f62c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces_LOD_2.fbx using Guid(4760cfefbc8162149a9eb5bc81f62c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2baf2312cc99c5a200fe964413020f03') in 0.096582 seconds
+  Import took 0.138458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4.FBX
+  artifactKey: Guid(04d12398b7b13d64f99c1f24693acf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4.FBX using Guid(04d12398b7b13d64f99c1f24693acf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adf633ff482c6d920450ec9976ff9e1') in 0.098655 seconds
+  Import took 0.137910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces.FBX
+  artifactKey: Guid(31e603dba4ae1034db2777c6e22d6afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces.FBX using Guid(31e603dba4ae1034db2777c6e22d6afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb8f0f2c134e8cec14b8bf07471acfa7') in 0.093769 seconds
+  Import took 0.099739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3_LOD_1.fbx
+  artifactKey: Guid(2e71857b9f8d195418dd5525e7d26a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_3_LOD_1.fbx using Guid(2e71857b9f8d195418dd5525e7d26a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc924a31d8a051eefe18eaedba416b5') in 0.092360 seconds
+  Import took 0.156760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2_LOD_2.fbx
+  artifactKey: Guid(4d352dd313eb0bf43840c048cec81e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2_LOD_2.fbx using Guid(4d352dd313eb0bf43840c048cec81e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a192129c2eda1fe7f7a32d9ebced5941') in 0.089152 seconds
+  Import took 0.106488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1.FBX
+  artifactKey: Guid(4163ffbc98ae6d14fb11d5d385726d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1.FBX using Guid(4163ffbc98ae6d14fb11d5d385726d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c543a35921e18c0bf24af212704a70d9') in 0.084523 seconds
+  Import took 0.105729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5.FBX
+  artifactKey: Guid(a439ec1adb13aa347aac61741217d6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5.FBX using Guid(a439ec1adb13aa347aac61741217d6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e83ee1609a975346c4584f49b3374a') in 0.064284 seconds
+  Import took 0.070869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/blood_spills.fbx
+  artifactKey: Guid(bd8e38253420f8a42bbf8f8c1904760b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/blood_spills.fbx using Guid(bd8e38253420f8a42bbf8f8c1904760b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3fd44e6e843298214ea739122608dc') in 0.238584 seconds
+  Import took 0.264698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1_LOD_2.fbx
+  artifactKey: Guid(e178acab6e85048469259747e32923ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_1_LOD_2.fbx using Guid(e178acab6e85048469259747e32923ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436706c09041a77980ba9de8fbbad5b1') in 0.097138 seconds
+  Import took 0.103086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5_LOD_3.fbx
+  artifactKey: Guid(50111950b899a0649863855338629963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_5_LOD_3.fbx using Guid(50111950b899a0649863855338629963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd770fe29268fe8e4e3c555495d6ce9b4') in 0.083329 seconds
+  Import took 0.126182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2.FBX
+  artifactKey: Guid(3c87d08f71eaa9d4e834a9040c3624f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2.FBX using Guid(3c87d08f71eaa9d4e834a9040c3624f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922e7c84a5b4b7477096c9c5c3a7a537') in 0.077004 seconds
+  Import took 0.084124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2_LOD_3.fbx
+  artifactKey: Guid(f79f6386d0a42984fae8fc8e35f1cefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_2_LOD_3.fbx using Guid(f79f6386d0a42984fae8fc8e35f1cefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0b40fc7a47aabd297be591857be364') in 0.088274 seconds
+  Import took 0.127989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains.FBX
+  artifactKey: Guid(46f20d961db4a454ea73025982ddf6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_brains.FBX using Guid(46f20d961db4a454ea73025982ddf6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fb11d4cca95d1fef160fe9377acd66') in 0.082629 seconds
+  Import took 0.121655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4_LOD_3.fbx
+  artifactKey: Guid(4471e1cd39ec0e74fb745584da34b490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_mess_4_LOD_3.fbx using Guid(4471e1cd39ec0e74fb745584da34b490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04c1bd68bf4bc9501f86b26ea6448e6') in 0.101334 seconds
+  Import took 0.107112 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000205 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot_LOD_1.fbx
-  artifactKey: Guid(f45570433066ae34f8871744562005c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_foot_LOD_1.fbx using Guid(f45570433066ae34f8871744562005c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed43d4223ca2579d8b36dfdaff629edf') in 0.064167 seconds
-  Import took 0.069066 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis.FBX
-  artifactKey: Guid(091712f723840284b9132a283586feb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported Assets/Gore_assets/meshes/torn_body_part_F_pelvis.FBX using Guid(091712f723840284b9132a283586feb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a80fa1291993515492d3b35fe81297') in 0.057619 seconds
-  Import took 0.062741 seconds .
+  path: Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces_LOD_3.fbx
+  artifactKey: Guid(2ee5bd40030da7544bc718bc38c050bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Horror Assets/meshes/ineer_organs_pieces_LOD_3.fbx using Guid(2ee5bd40030da7544bc718bc38c050bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1488512e0739e09b332e1fbdc89b3e') in 0.087631 seconds
+  Import took 0.093339 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001095 seconds.
+Registered in 0.001198 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.945 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.4 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3092.
-Total: 2.958200 ms (FindLiveObjects: 0.419500 ms CreateObjectMapping: 0.087000 ms MarkObjects: 2.169800 ms  DeleteObjects: 0.280600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001177 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.905 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3095.
-Total: 2.904500 ms (FindLiveObjects: 0.316100 ms CreateObjectMapping: 0.069400 ms MarkObjects: 2.186300 ms  DeleteObjects: 0.330800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2042.047148 seconds.
-  path: Assets/Prefabs/StreetChunk.prefab
-  artifactKey: Guid(6f22eeb3b4faba14aa3d943b20f6ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetChunk.prefab using Guid(6f22eeb3b4faba14aa3d943b20f6ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4694808e8a1cc53e8ce272790467a8ac') in 0.111595 seconds
-  Import took 0.115725 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.534121 seconds.
-  path: Assets/Prefabs/StreetChunk.prefab
-  artifactKey: Guid(6f22eeb3b4faba14aa3d943b20f6ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetChunk.prefab using Guid(6f22eeb3b4faba14aa3d943b20f6ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287b3c73ed5edfd069b79a3b3edbb9ab') in 0.008269 seconds
-  Import took 0.012627 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.026310 seconds.
-  path: Assets/Prefabs/StreetChunk.prefab
-  artifactKey: Guid(6f22eeb3b4faba14aa3d943b20f6ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/StreetChunk.prefab using Guid(6f22eeb3b4faba14aa3d943b20f6ac48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2610a52f7925453a651cb2d49b4190e5') in 0.007723 seconds
-  Import took 0.011905 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001084 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.923 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3100.
-Total: 2.889400 ms (FindLiveObjects: 0.312700 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.115800 ms  DeleteObjects: 0.387600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001164 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.946 seconds
+- Completed reload, in  1.116 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.5 MB.
+System memory in use before: 129.0 MB.
+System memory in use after: 128.9 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3103.
-Total: 3.213500 ms (FindLiveObjects: 0.457500 ms CreateObjectMapping: 0.118700 ms MarkObjects: 2.281100 ms  DeleteObjects: 0.354400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001540 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.048 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3106.
-Total: 3.027000 ms (FindLiveObjects: 0.416400 ms CreateObjectMapping: 0.096600 ms MarkObjects: 2.108900 ms  DeleteObjects: 0.404000 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3110.
+Total: 5.241200 ms (FindLiveObjects: 0.658200 ms CreateObjectMapping: 0.162700 ms MarkObjects: 3.957500 ms  DeleteObjects: 0.460100 ms)
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002828 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.942 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.6 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3109.
-Total: 2.962300 ms (FindLiveObjects: 0.373700 ms CreateObjectMapping: 0.070300 ms MarkObjects: 2.110800 ms  DeleteObjects: 0.406000 ms)
+Received Import Request.
+  Time since last request: 604.999844 seconds.
+  path: Assets/Materials/Stone/RocksWall.mat
+  artifactKey: Guid(74e31f935171ae840898aab3da1854e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stone/RocksWall.mat using Guid(74e31f935171ae840898aab3da1854e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36878571c155f4f3e1e25d23f9e8000b') in 0.277279 seconds
+  Import took 0.309361 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
