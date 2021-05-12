@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class Collectibles : MonoBehaviour
 {
+    /*
     void onTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("fruit"))
         {
-            Debug.Log("Player has triggered the fruit");
+            Debug.Log("Player has triggered the xxfruit");
             other.gameObject.SetActive(false);
         }
     }
+    */
 }
