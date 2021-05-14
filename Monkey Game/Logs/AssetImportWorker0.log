@@ -1,0 +1,383 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 32715 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Games/Unity/Unity Hub/Projects/Monkey Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49551
+Successfully changed project path to: D:/Games/Unity/Unity Hub/Projects/Monkey Game
+D:/Games/Unity/Unity Hub/Projects/Monkey Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 57.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Games/Unity/Unity Hub/Projects/Monkey Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   
+    VRAM:     24348 MB
+    Driver:   27.21.14.5671
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002582 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.451 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001241 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.152 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2585 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.4 MB.
+System memory in use after: 132.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3050.
+Total: 3.673800 ms (FindLiveObjects: 0.525300 ms CreateObjectMapping: 0.135200 ms MarkObjects: 2.685200 ms  DeleteObjects: 0.326000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Beachside hotel.unity
+  artifactKey: Guid(e4c0a2fe02449cb489d2ec314d98d83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Beachside hotel.unity using Guid(e4c0a2fe02449cb489d2ec314d98d83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a6d7ed6aa25fda25864d558a07be28') in 0.020119 seconds
+  Import took 0.036146 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.044 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.6 MB.
+System memory in use after: 127.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3053.
+Total: 3.040800 ms (FindLiveObjects: 0.327600 ms CreateObjectMapping: 0.080300 ms MarkObjects: 2.273700 ms  DeleteObjects: 0.357200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 367.520611 seconds.
+  path: Assets/Scenes/PoC Scene.unity
+  artifactKey: Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PoC Scene.unity using Guid(d9ef8b85527a799488ad8b8c8070262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67b4d9b1d90f473b0061e983cb502c3') in 0.026614 seconds
+  Import took 0.030850 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.950 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3056.
+Total: 3.701600 ms (FindLiveObjects: 0.396800 ms CreateObjectMapping: 0.095500 ms MarkObjects: 2.796900 ms  DeleteObjects: 0.410600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1329.008716 seconds.
+  path: Assets/Scenes/MonkeHill/New Lighting Settings 1.lighting
+  artifactKey: Guid(9ca7067174ee7614d9e2c9233770390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/New Lighting Settings 1.lighting using Guid(9ca7067174ee7614d9e2c9233770390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7e4e89e1c12148af602403bf3f9568') in 0.048691 seconds
+  Import took 0.052998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.113018 seconds.
+  path: Assets/Scenes/MonkeHill/New Lighting Settings.lighting
+  artifactKey: Guid(22be6e24a9d15014eacbf5d520a13999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/New Lighting Settings.lighting using Guid(22be6e24a9d15014eacbf5d520a13999) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: 'a0584da9a1f530c709c04b1303fd2552') in 0.006892 seconds
+  Import took 0.030145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.529591 seconds.
+  path: Assets/Scenes/MonkeHill/Monke Hill Lighting.lighting
+  artifactKey: Guid(22be6e24a9d15014eacbf5d520a13999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Monke Hill Lighting.lighting using Guid(22be6e24a9d15014eacbf5d520a13999) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: '4824ad6d7712fb06184a90a60d6b8b72') in 0.007236 seconds
+  Import took 0.011354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.315564 seconds.
+  path: Assets/Scenes/MonkeHill/Default Light Recipe.lighting
+  artifactKey: Guid(22be6e24a9d15014eacbf5d520a13999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Default Light Recipe.lighting using Guid(22be6e24a9d15014eacbf5d520a13999) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 2.
+ -> (artifact id: '816e4109b02341118701a516ca3c4008') in 0.006616 seconds
+  Import took 0.010826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.363841 seconds.
+  path: Assets/Scenes/MonkeHill/Monke Hill Lighting.lighting
+  artifactKey: Guid(9ca7067174ee7614d9e2c9233770390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Monke Hill Lighting.lighting using Guid(9ca7067174ee7614d9e2c9233770390e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ec66cbba46722cec16236bc108d73c') in 0.004783 seconds
+  Import took 0.014914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.921013 seconds.
+  path: Assets/Scenes/MonkeHill/LightingData.asset
+  artifactKey: Guid(ccff6b1ab4875a748bd9d57c36b6e419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/LightingData.asset using Guid(ccff6b1ab4875a748bd9d57c36b6e419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60c06dce5fbd68ccd76209af7f4e3e2') in 0.009339 seconds
+  Import took 0.019886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-3_comp_dir.png
+  artifactKey: Guid(e32bdb4071224b64c808a63f7ac64f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-3_comp_dir.png using Guid(e32bdb4071224b64c808a63f7ac64f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beca003790ce91c5ae3329654ef67a55') in 0.056990 seconds
+  Import took 0.061903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-2_comp_light.exr
+  artifactKey: Guid(cfa600017edbefd4eaec28a91291f623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-2_comp_light.exr using Guid(cfa600017edbefd4eaec28a91291f623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03b6914156c767cfe3cff8c9765ea7f') in 0.043310 seconds
+  Import took 0.048301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-0_comp_light.exr
+  artifactKey: Guid(aade27ad0bdfeb6458bf90adc440eec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-0_comp_light.exr using Guid(aade27ad0bdfeb6458bf90adc440eec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ecade4eedf0db05f631ed693d295aa') in 0.012753 seconds
+  Import took 0.017960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-2_comp_dir.png
+  artifactKey: Guid(c65a122e9fb82fe4aae0513e40950afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-2_comp_dir.png using Guid(c65a122e9fb82fe4aae0513e40950afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5934d571a4f2e55a8e4dcd7b1f0dda') in 0.012751 seconds
+  Import took 0.016973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-0_comp_dir.png
+  artifactKey: Guid(2673557bff046184aa2c9a374906de1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-0_comp_dir.png using Guid(2673557bff046184aa2c9a374906de1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c5a38c5e6078a9984452eee4a468f4') in 0.013219 seconds
+  Import took 0.017102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-1_comp_dir.png
+  artifactKey: Guid(ca66f901f05d15c40aa25a103fec1243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-1_comp_dir.png using Guid(ca66f901f05d15c40aa25a103fec1243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452b01d40b28a9fa350ca5d1daaa4fc1') in 0.014269 seconds
+  Import took 0.018646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-3_comp_light.exr
+  artifactKey: Guid(ac551d32b5f6e954aa445c9f958c7e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-3_comp_light.exr using Guid(ac551d32b5f6e954aa445c9f958c7e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7444eaff7d60003fb2731aabcae3c7') in 0.012946 seconds
+  Import took 0.023355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-1_comp_light.exr
+  artifactKey: Guid(192ba1c1e46f8af408da37132330f80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-1_comp_light.exr using Guid(192ba1c1e46f8af408da37132330f80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0c28fe9db813aed2ddb55949f9f8f3') in 0.012783 seconds
+  Import took 0.017417 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.7 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3064.
+Total: 2.654900 ms (FindLiveObjects: 0.345800 ms CreateObjectMapping: 0.076500 ms MarkObjects: 1.926600 ms  DeleteObjects: 0.304900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.182344 seconds.
+  path: Assets/Scenes/MonkeHill/LightingData.asset
+  artifactKey: Guid(ccff6b1ab4875a748bd9d57c36b6e419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/LightingData.asset using Guid(ccff6b1ab4875a748bd9d57c36b6e419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44249f555ab94dc8cc65de979e0c6f69') in 0.022919 seconds
+  Import took 0.027197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-3_comp_dir.png
+  artifactKey: Guid(e32bdb4071224b64c808a63f7ac64f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-3_comp_dir.png using Guid(e32bdb4071224b64c808a63f7ac64f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61df18a761d3828b349b4bc52dd3ba57') in 0.034532 seconds
+  Import took 0.039621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-2_comp_light.exr
+  artifactKey: Guid(cfa600017edbefd4eaec28a91291f623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-2_comp_light.exr using Guid(cfa600017edbefd4eaec28a91291f623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5892234bce907e6b3a11fef769ef2e8') in 0.017470 seconds
+  Import took 0.021539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-0_comp_light.exr
+  artifactKey: Guid(aade27ad0bdfeb6458bf90adc440eec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-0_comp_light.exr using Guid(aade27ad0bdfeb6458bf90adc440eec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd207b3362b3348cdda9b2fd3acd4b775') in 0.013653 seconds
+  Import took 0.017853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-2_comp_dir.png
+  artifactKey: Guid(c65a122e9fb82fe4aae0513e40950afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-2_comp_dir.png using Guid(c65a122e9fb82fe4aae0513e40950afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e50caa179e8ff57f04b856127220659') in 0.010585 seconds
+  Import took 0.015055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-0_comp_dir.png
+  artifactKey: Guid(2673557bff046184aa2c9a374906de1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-0_comp_dir.png using Guid(2673557bff046184aa2c9a374906de1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9efafde5e7a9edd286855a96829ea10a') in 0.011971 seconds
+  Import took 0.016491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-1_comp_dir.png
+  artifactKey: Guid(ca66f901f05d15c40aa25a103fec1243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-1_comp_dir.png using Guid(ca66f901f05d15c40aa25a103fec1243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507f4ce92c900b7e624e5b5cf04f2237') in 0.010868 seconds
+  Import took 0.015674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-3_comp_light.exr
+  artifactKey: Guid(ac551d32b5f6e954aa445c9f958c7e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-3_comp_light.exr using Guid(ac551d32b5f6e954aa445c9f958c7e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc2603579b34bbb1edbb5496beddf19') in 0.011004 seconds
+  Import took 0.015819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Scenes/MonkeHill/Lightmap-1_comp_light.exr
+  artifactKey: Guid(192ba1c1e46f8af408da37132330f80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MonkeHill/Lightmap-1_comp_light.exr using Guid(192ba1c1e46f8af408da37132330f80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6102157f2cf9e0766f588480d9620e9c') in 0.011864 seconds
+  Import took 0.016180 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2502 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.7 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3068.
+Total: 3.210300 ms (FindLiveObjects: 0.373300 ms CreateObjectMapping: 0.087200 ms MarkObjects: 2.353000 ms  DeleteObjects: 0.395400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
