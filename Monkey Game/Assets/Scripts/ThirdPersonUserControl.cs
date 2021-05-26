@@ -115,11 +115,19 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
                 SetCountText();
             }
+
+
             if (other.gameObject.CompareTag("endzone") && able_to_win)
             {
                 Debug.Log("Player has triggered the ENDZONE");
                 Cursor.lockState = CursorLockMode.None;
                 SceneManager.LoadScene("Level Select");
+            }
+
+            if (Input.GetKeyDown("m"))
+            {
+                SceneManager.LoadScene("Level Select");
+                Cursor.lockState = CursorLockMode.None;
             }
         }
     }

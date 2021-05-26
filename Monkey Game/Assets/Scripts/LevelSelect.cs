@@ -8,8 +8,8 @@ public class LevelSelect : MonoBehaviour
     public void LoadLevel(string levelName)
     {
         SceneManager.LoadScene(levelName);
+        Cursor.lockState = CursorLockMode.Locked;
     }
-
 }
 
 
