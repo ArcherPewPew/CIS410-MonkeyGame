@@ -50,7 +50,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
             //End Game
             //Keep checking the number of fruits that user collected
-            if (counter == 10)
+            if (counter == 5)
             {
                 winTextObject.SetActive(true);
                 able_to_win = true;
