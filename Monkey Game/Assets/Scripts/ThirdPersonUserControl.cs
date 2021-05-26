@@ -56,6 +56,12 @@ namespace UnityStandardAssets.Characters.ThirdPerson
                 winTextObject.SetActive(true);
                 able_to_win = true;
             }
+
+            if (Input.GetKeyDown("m"))
+            {
+                SceneManager.LoadScene("Level Select");
+                Cursor.lockState = CursorLockMode.None;
+            }
         }
 
 
@@ -124,11 +130,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
                 SceneManager.LoadScene("Level Select");
             }
 
-            if (Input.GetKeyDown("m"))
-            {
-                SceneManager.LoadScene("Level Select");
-                Cursor.lockState = CursorLockMode.None;
-            }
+           
         }
     }
 }
