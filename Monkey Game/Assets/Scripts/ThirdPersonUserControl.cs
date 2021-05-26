@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityStandardAssets.CrossPlatformInput;
 using TMPro;
 
@@ -117,7 +118,8 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             if (other.gameObject.CompareTag("endzone") && able_to_win)
             {
                 Debug.Log("Player has triggered the ENDZONE");
-                Application.Quit(); //could do fadeaway here
+                Cursor.lockState = CursorLockMode.None;
+                SceneManager.LoadScene("Level Select");
             }
         }
     }

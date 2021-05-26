@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: ed85522f749104344abe2066fd517adf
+  - enabled: 1
     path: Assets/Scenes/PoC Scene.unity
     guid: d9ef8b85527a799488ad8b8c8070262d
+  - enabled: 1
+    path: Assets/Scenes/Beachside hotel.unity
+    guid: e4c0a2fe02449cb489d2ec314d98d83a
+  - enabled: 1
+    path: Assets/Scenes/MonkeHill.unity
+    guid: 358895f8c29127948a4d23d87926386a
   m_configObjects: {}
