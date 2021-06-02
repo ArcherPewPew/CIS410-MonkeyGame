@@ -10,11 +10,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Post-Processing Layer Beach
   - Water
   - UI
-  - 
-  - 
+  - Post-Processing Layer Horror
+  - Post-Processing Layer Cave
   - 
   - 
   - 
