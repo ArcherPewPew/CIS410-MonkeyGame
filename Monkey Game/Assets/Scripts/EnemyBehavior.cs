@@ -10,6 +10,8 @@ public class EnemyBehavior : MonoBehaviour
     public Transform[] waypoints;
     public GameObject player;
     public Animator animator;
+    public AudioSource audioSource;
+    public AudioClip clip;
 
     int m_CurrentWaypointIndex;
     public float range = 15.0f;
@@ -25,8 +27,17 @@ public class EnemyBehavior : MonoBehaviour
 
         if(InRange()) {
             navMeshAgent.SetDestination(player.transform.position); navMeshAgent.speed = 6;
-            animator.SetBool("Attack", true);
+            
             navMeshAgent.speed = 6;
+                  
+
+            if (TestRange(10)) {
+                animator.SetBool("Attack", true);
+                //PLAY SCREECH?     
+                audioSource.PlayOneShot(clip);
+            }
+            
+
             if (InAttackRange())
             {             
                 //play attack animation
@@ -52,6 +63,11 @@ public class EnemyBehavior : MonoBehaviour
     {
         return Vector3.Distance(navMeshAgent.nextPosition, player.transform.position) <= range;
     }
+    bool TestRange(int x)
+    {
+        return Vector3.Distance(navMeshAgent.nextPosition, player.transform.position) <= x;
+    }
+
 
     bool InAttackRange()
     {
