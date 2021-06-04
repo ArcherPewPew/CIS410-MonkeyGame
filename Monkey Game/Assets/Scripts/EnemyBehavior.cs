@@ -7,8 +7,10 @@ public class EnemyBehavior : MonoBehaviour
 {
     public NavMeshAgent navMeshAgent;
     public Transform[] waypoints;
+    public GameObject player;
 
     int m_CurrentWaypointIndex;
+    public float range = 15.0f;
 
     void Start()
     {
@@ -17,7 +19,10 @@ public class EnemyBehavior : MonoBehaviour
 
     void Update()
     {
-        if (navMeshAgent.remainingDistance < navMeshAgent.stoppingDistance)
+
+        if(Vector3.Distance(navMeshAgent.nextPosition, player.transform.position) <= range) {
+            navMeshAgent.SetDestination(player.transform.position);
+        } else if (navMeshAgent.remainingDistance < navMeshAgent.stoppingDistance)
         {
             m_CurrentWaypointIndex = (m_CurrentWaypointIndex + 1) % waypoints.Length;
             navMeshAgent.SetDestination(waypoints[m_CurrentWaypointIndex].position);
