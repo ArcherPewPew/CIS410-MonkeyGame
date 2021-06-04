@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.SceneManagement;
 
 public class EnemyBehavior : MonoBehaviour
 {
@@ -23,16 +24,27 @@ public class EnemyBehavior : MonoBehaviour
     {
 
         if(InRange()) {
-            navMeshAgent.SetDestination(player.transform.position);
+            navMeshAgent.SetDestination(player.transform.position); navMeshAgent.speed = 6;
+            animator.SetBool("Attack", true);
+            navMeshAgent.speed = 6;
             if (InAttackRange())
-            {
+            {             
                 //play attack animation
                 //do attack stuff?
+     
+                //CAN RESET GAME HERE
+                //TEST COLLISION HERE?
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
         } else if (navMeshAgent.remainingDistance < navMeshAgent.stoppingDistance)
         {
+            animator.SetBool("Attack", false);
             m_CurrentWaypointIndex = (m_CurrentWaypointIndex + 1) % waypoints.Length;
             navMeshAgent.SetDestination(waypoints[m_CurrentWaypointIndex].position);
+        } else if (!InAttackRange())
+        {
+            navMeshAgent.speed = 4;
+            animator.SetBool("Attack", false);
         }
     }
 
@@ -43,7 +55,7 @@ public class EnemyBehavior : MonoBehaviour
 
     bool InAttackRange()
     {
-        return Vector3.Distance(navMeshAgent.nextPosition, player.transform.position) <= 5;
+        return Vector3.Distance(navMeshAgent.nextPosition, player.transform.position) <= 3;
 
     }
 }
