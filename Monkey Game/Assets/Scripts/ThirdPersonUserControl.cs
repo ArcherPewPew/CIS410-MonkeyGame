@@ -9,6 +9,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
     [RequireComponent(typeof(ThirdPersonCharacter))]
     public class ThirdPersonUserControl : MonoBehaviour
     {
+        
         private ThirdPersonCharacter m_Character; // A reference to the ThirdPersonCharacter on the object
         private Transform m_Cam;                  // A reference to the main camera in the scenes transform
         private Vector3 m_CamForward;             // The current forward direction of the camera
@@ -18,6 +19,16 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         public int counter;
         public TextMeshProUGUI bananacounter;
 
+
+		public int maxHealth = 3;                           //From Here
+		public float timeInvincible = 3.0f;
+
+    
+		public int health { get { return currentHealth; }}
+		int currentHealth;
+    
+		bool isInvincible;
+		float invincibleTimer;                              //To here are the code from Ruby's Adventure
 
         private void Start()
         {
@@ -129,8 +140,20 @@ namespace UnityStandardAssets.Characters.ThirdPerson
                 Cursor.lockState = CursorLockMode.None;
                 SceneManager.LoadScene("Level Select");
             }
-
-           
         }
+		public void ChangeHealth(int amount)                            // Borrowed from Ruby's adventure
+		{
+			if (amount < 0)
+			{
+				if (isInvincible)
+					return;
+            
+				isInvincible = true;
+				invincibleTimer = timeInvincible;
+			}
+        
+			currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
+			//Debug.Log(currentHealth + "/" + maxHealth);
+		}
     }
 }
